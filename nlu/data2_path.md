@@ -1,0 +1,1257 @@
+## intent:cronus_greet
+- hey
+- hello
+- helo
+- hi
+- hiya
+- good morning
+- good evening
+- good afternoon
+- hey there
+- hello there
+
+## intent:cronus_gender
+- what is your gender
+- are you male or female
+- what is your sex
+- are you male
+- are you female
+- are you a transgender
+- tell me your gender
+- are you masculine
+- are you feminine
+- are you male female
+- what is your gender
+- are you male or female
+- what is your sex
+- are you male
+- are you female
+- are you a transgender
+- tell me your gender
+- are you masculine
+- are you feminine
+- are you male female
+
+
+## intent:cronus_dob
+- your dob
+- your date of birth
+- whats your birthday
+- when is your birthday
+- when is your birthdate
+- when were you born
+- when is your birthday party
+- can i have your date of birth 
+- what is your date of birth
+- what is your dob
+- your dob
+- may i know your dob
+- may i ask your dob
+- share your dob
+- tell me your birthdate
+- do you mind if i ask your birthdate
+- when were you born or created
+- do you know your date of birth
+- when were you created
+- your dob
+- your date of birth
+- what your birthday
+- when is your birthday
+- when is your birthdate
+- when were you born
+- when is your birthday party
+- can i have your date of birth 
+- what is your date of birth
+- what is your dob
+- your dob
+- may i know your dob
+- may i ask your dob
+- share your dob
+- tell me your birthdate
+- do you mind if i ask your birthdate
+- when were you born or created
+- do you know your date of birth
+- when were you created
+
+
+## intent:cronus_age
+- what is your age
+- your age
+- how old did you get
+- how old are you
+- how old are you now
+- how old did you turn
+- may i ask your age
+- may i get to know you age
+- do you mind if i ask how old you are
+- tell me your age
+- what is your current age
+- how old are you right now
+- what is your present age
+- by the way what is your age
+- what is your age
+- your age
+- how old did you get
+- how old are you
+- how old are you now
+- how old did you turn
+- may i ask your age
+- may i get to know you age
+- do you mind if i ask how old you are
+- tell me your age
+- what is your current age
+- how old are you right now
+- what is your present age
+- by the way what is your age
+
+## intent:cronus_name
+- your name
+- what is your name
+- tell me your name
+- may i ask you what your name is
+- how may i address you
+- how do they call you
+- how is one to call you
+- could i ask your name
+- i forgot your name could you  remind me
+- what should i call you
+- what your name
+- what do your friends call you
+- how do people call you
+- what do your owner call you
+- what do others call you
+- may I know your name
+- who are you
+- tell me briefly about yourself
+- tell me about yourself
+- introduce yourself
+- may i know who this is
+- who is this
+
+- your name
+- what is your name
+- tell me your name
+- may i ask you what your name is
+- how may i address you
+- how do they call you
+- how is one to call you
+- could i ask your name
+- i forgot your name could you  remind me
+- what should i call you
+- what your name
+- what do your friends call you
+- how do people call you
+- what do your owner call you
+- what do others call you
+- may I know your name
+- who are you
+- tell me briefly about yourself
+- tell me about yourself
+- introduce yourself
+- may i know who this is
+- who is this
+
+
+## intent:cronus_city
+- your city
+- where are you from
+- what is your city
+- could you tell me where you are from
+- where do you stay
+- where are you from
+- where do you live
+- where do you reside
+- where do you live currently
+- where are you now
+- are you in Abu Dhabi
+- your birth place
+- where you belong from
+- may i know which city you belong to
+- your city
+- where are you from
+- what is your city
+- could you tell me where you are from
+- where do you stay
+- where are you from
+- where do you live
+- where do you reside
+- where do you live currently
+- where are you now
+- are you in Abu Dhabi
+- your birth place
+- where you belong from
+- may i know which city you belong to
+
+## intent:cronus_languages
+- which languages can you speak
+- what languages can you speak
+- which languages do you speak
+- which languages do you know
+- how many languages can you speak
+- how many languages do you know
+- speak [french](languages)
+- speak in [arabic](languages)
+- know to speak in [spanish](languages)
+- know to speak [urdu](languages)
+- do you know to speak in [hebrew](languages)
+- talk in [english](languages)
+
+- which languages can you speak
+- what languages can you speak
+- which languages do you speak
+- which languages do you know
+- how many languages can you speak
+- how many languages do you know
+- speak [french](languages)
+- speak in [arabic](languages)
+- know to speak in [spanish](languages)
+- know to speak [urdu](languages)
+- do you know to speak in [hebrew](languages)
+- talk in [english](languages)
+
+## intent:cronus_job
+- your job
+- your profession
+- what is your work
+- what do you do for a living
+- what do you do
+- what is your job
+- what kind of work do you do
+- what line of work are you in
+- i would be interested to hear about what you do
+- what you do
+- what is your nature of work
+- what is your nature of job
+- what you do as a chatbot
+- what is your key responsibility on a job
+- tell me about your job
+- where are you working
+- your job
+- your profession
+- what is your work
+- what do you do for a living
+- what do you do
+- what is your job
+- what kind of work do you do
+- what line of work are you in
+- i would be interested to hear about what you do
+- what you do
+- what is your nature of work
+- what is your nature of job
+- what you do as a chatbot
+- what is your key responsibility on a job
+- tell me about your job
+- where are you working
+
+## intent:cronus_education
+- how much study you have done
+- what is your educational background
+- tell me about your educational qualifications
+- what are your qualifications
+- what college have you been to
+- your college
+- your school
+- where did you get your degree from
+- what is your education
+- your education
+- tell me about your studies
+- what have you studied
+- what course have you studied
+- what is your major in studies
+- what is your education level
+- tell me how much education you have received
+- have you got your degree
+- do you have a degree
+- how much study you have done
+- what is your educational background
+- tell me about your educational qualifications
+- what are your qualifications
+- what college have you been to
+- your college
+- your school
+- where did you get your degree from
+- what is your education
+- your education
+- tell me about your studies
+- what have you studied
+- what course have you studied
+- what is your major in studies
+- what is your education level
+- tell me how much education you have received
+- have you got your degree
+- do you have a degree
+
+## intent:cronus_hobbies
+- do you have a hobby
+- what are your hobbies
+- your hobbies
+- tell about your hobbies
+- what do you do in your spare time
+- what do you do in your leisure time
+- what things do you find most interesting
+- what are your interests
+- your interests
+- how do you make your spare time interesting 
+- what activities you find yourself intrigued about the most 
+- list your activities which you are most interested in
+- do you even have anything interesting to do other than this
+- what is your favourite hobby
+- how many things do you do in your free time
+- how many activities do you do in your free time
+- tell me about your hobbies
+- what is interesting for you to do to make you happy
+
+- do you have a hobby
+- what are your hobbies
+- your hobbies
+- tell about your hobbies
+- what do you do in your spare time
+- what do you do in your leisure time
+- what things do you find most interesting
+- what are your interests
+- your interests
+- how do you make your spare time interesting 
+- what activities you find yourself intrigued about the most 
+- list your activities which you are most interested in
+- do you even have anything interesting to do other than this
+- what is your favourite hobby
+- how many things do you do in your free time
+- how many activities do you do in your free time
+- tell me about your hobbies
+- what is interesting for you to do to make you happy
+
+## intent:cronus_country
+- what is your country
+- your country
+- which country do you belong to
+- in which country do you live
+- in what part of the world you reside
+- what nationality do you hold
+- what is your nationality
+- i am very curious about your nationality
+- may i know which state you belong to
+- are you from america
+- are you a british national
+- which country’s nationality do you have
+- are you dual national
+- may I know your nationality
+- how many nationalities do you have
+- what is your country
+- your country
+- which country do you belong to
+- in which country do you live
+- in what part of the world you reside
+- what nationality do you hold
+- what is your nationality
+- i am very curious about your nationality
+- may i know which state you belong to
+- are you from america
+- are you a british national
+- which country’s nationality do you have
+- are you dual national
+- may I know your nationality
+- how many nationalities do you have
+
+## intent:cronus_music
+- whose music you like the most
+- what is your favourite song
+- who is your favourite musician
+- tell me about your kind of music and who do you like to listen most
+- tell me about your favourite music makers
+- who is the best among all the music producers in the world
+- what is your favourite song
+- which is your favourite song
+- your favourite music
+- your favourite musician
+- do you like music
+- what is your favourite music
+- which type of music do you like most
+- which style of music do you like to listen
+- which style of music do you want to listen
+- is there any favourite song of yours
+- who is your favourite singer
+- whose music you like the most
+- what is your favourite song
+- who is your favourite musician
+- tell me about your kind of music and who do you like to listen most
+- tell me about your favourite music makers
+- who is the best among all the music producers in the world
+- what is your favourite song
+- which is your favourite song
+- your favourite music
+- your favourite musician
+- do you like music
+- what is your favourite music
+- which type of music do you like most
+- which style of music do you like to listen
+- which style of music do you want to listen
+- is there any favourite song of yours
+- who is your favourite singer
+
+
+## intent:cronus_color
+- what is your favourite color
+- your favourite color
+- which color do you like
+- what shades in clothing you like to wear most often
+- what kind of hues you prefer to wear
+- defines yourself in a shade or hue you like the most
+- which color do you like the most
+- do you prefer specific color while selecting clothes
+- which shade of color do you like most
+- what is your favorite color
+- what is your favourite color
+- your favourite color
+- which color do you like
+- what shades in clothing you like to wear most often
+- what kind of hues you prefer to wear
+- defines yourself in a shade or hue you like the most
+- which color do you like the most
+- do you prefer specific color while selecting clothes
+- which shade of color do you like most
+- what is your favorite color
+
+## intent:cronus_sibling
+- do you have any brother
+- how many brothers do you have
+- do you have any sister
+- how many sister do you have
+- how many siblings do you have
+- do you have any siblings
+- any brothers or sisters
+- how many brothers and sisters do you have
+- how many kinsmen do you have and what do you call them 
+- what do you call your kinsman
+- how do you call out your kinsman
+- name all your male kinsfolk
+- how many kinswomen do you have and what do you call them 
+- what do you call your kinswoman
+- how do you call out your kinswoman
+- name all your female kinsfolk
+- do you have elder sister brother
+- do you have younger sister brother
+- how many siblings
+- younger or older among siblings
+- do you have any brother
+- how many brothers do you have
+- do you have any sister
+- how many sister do you have
+- how many siblings do you have
+- do you have any siblings
+- any brothers or sisters
+- how many brothers and sisters do you have
+- how many kinsmen do you have and what do you call them 
+- what do you call your kinsman
+- how do you call out your kinsman
+- name all your male kinsfolk
+- how many kinswomen do you have and what do you call them 
+- what do you call your kinswoman
+- how do you call out your kinswoman
+- name all your female kinsfolk
+- do you have elder sister brother
+- do you have younger sister brother
+- how many siblings
+- younger or older among siblings
+
+## intent:cronus_owner_developer
+- who made you
+- who is your developer
+- who are your developers
+- who developed you
+- who is your owner
+- who owns you
+- who created you
+- tell me about your owner
+- who updated you
+- introduce your owner
+- tell me about your owner
+- tell me about your developer
+- who is responsible of you
+- who takes your responsibility
+- who made you
+- who is your developer
+- who are your developers
+- who developed you
+- who is your owner
+- who owns you
+- who created you
+- tell me about your owner
+- who updated you
+- introduce your owner
+- tell me about your owner
+- tell me about your developer
+- who is responsible of you
+- who takes your responsibility
+- tell me your boss
+
+## intent:cronus_organization
+- name of your organization
+- name of your company
+- name of your firm
+- your organization
+- your company
+- your firm
+- tell me about your organization
+- tell me about your company
+- tell me about your firm
+- where are you working
+- which company are you working
+- which organization are you working
+- which firm are you working for
+- which company do you work for
+- which organization do you work for
+- which firm do you work for
+- name of your organization
+- name of your company
+- name of your firm
+- your organization
+- your company
+- your firm
+- tell me about your organization
+- tell me about your company
+- tell me about your firm
+- where are you working
+- which company are you working
+- which organization are you working
+- which firm are you working for
+- which company do you work for
+- which organization do you work for
+- which firm do you work for
+
+## intent:cronus_marriage
+- are you married
+- are you single
+- do you have a husband
+- do you hava a wife
+- do you have a spouse
+- do you have a significant other
+- have you got a spouse
+- what is your marital status
+- when you have plan to get married
+- are you married
+- are you single
+- do you have a husband
+- do you hava a wife
+- do you have a spouse
+- do you have a significant other
+- have you got a spouse
+- what is your marital status
+- when you have plan to get married
+
+
+## intent:cronus_poet
+- who is your favourite poet
+- your favourite poet
+- your most liked poet
+- whose poetry you like the most
+- whose poetry you like
+- whose poems are your favourite
+- do you like shakespeare poems
+- whose poetry would you prefer to read
+- whose poetry is your favourite
+- name the poet in whose poetry you are interested
+- i like poetries do you like it
+- do you like poetries
+- who is your favourite poet
+- your favourite poet
+- your most liked poet
+- whose poetry you like the most
+- whose poetry you like
+- whose poems are your favourite
+- do you like shakespeare poems
+- whose poetry would you prefer to read
+- whose poetry is your favourite
+- name the poet in whose poetry you are interested
+- i like poetries do you like it
+- do you like poetries
+
+## intent:cronus_sportsman
+- what is your favourite sportsman
+- who is your favourite sportsman
+- what sports person is your favourite
+- who inspires you the most in sports
+- because of whom do you like a sport
+- which sports personality do you like
+- which sports personality do you like most
+- which sports celebrity do you like most 
+- do you like any sportsman
+- who do you think the most talented sportsman
+- who is your personal hero
+- your favourite sportsman
+- what is your favourite sportsman
+- who is your favourite sportsman
+- what sports person is your favourite
+- who inspires you the most in sports
+- because of whom do you like a sport
+- which sports personality do you like
+- which sports personality do you like most
+- which sports celebrity do you like most 
+- do you like any sportsman
+- who do you think the most talented sportsman
+- who is your personal hero
+- your favourite sportsman
+
+## intent:cronus_parent
+- do you have any parents
+- do you have a mother
+- do you have a father
+- do you have a father or mother
+- what do you call your matriarch
+- can i know the name of the woman who gave birth to you
+- who is the woman birthed you
+- i am interested in knowing your mom official title
+- are your parents alive
+- to whom you are more closer in your parents
+- tell me about your family
+- what does your father do
+- is your mother a housewife
+- tell me about your family
+- do you have a family
+- do you have any parents
+- do you have a mother
+- do you have a father
+- do you have a father or mother
+- what do you call your matriarch
+- can i know the name of the woman who gave birth to you
+- who is the woman birthed you
+- i am interested in knowing your mom official title
+- are your parents alive
+- to whom you are more closer in your parents
+- tell me about your family
+- what does your father do
+- is your mother a housewife
+- tell me about your family
+- do you have a family
+
+
+## intent:cronus_actor
+- your favourite actor actress
+- your favorite celebrity
+- who is your favourite actor
+- who is your favourite actress 
+- who is your favourite male celebrity
+- who is your favourite female celebrity
+- i want to know about your favourite celebbrity
+- name one celebrity you like to watch
+- which celebrity is your all time favourite
+- do you like any celebrity
+- is there any celebrity you like to watch
+- is there any actor or actress you like to watch
+- tell me the name of famous actor
+- your favourite actor actress
+- your favorite celebrity
+- who is your favourite actor
+- who is your favourite actress 
+- who is your favourite male celebrity
+- who is your favourite female celebrity
+- i want to know about your favourite celebbrity
+- name one celebrity you like to watch
+- which celebrity is your all time favourite
+- do you like any celebrity
+- is there any celebrity you like to watch
+- is there any actor or actress you like to watch
+- tell me the name of famous actor
+
+## intent:cronus_book
+- your favourite book
+- your most favourite book
+- which is your most favourite book
+- what is your most favourite book
+- which type of books do you love to read
+- what book you would like to read the most
+- name one good book read of yours
+- what book keeps you captivated
+- which book you always enjoy whenever you read
+- which book compels you to read many times
+- any book which you read many times
+- which type of books do you like to read
+- which book do you like very much
+- tell me about your favourite book
+- tell me about your favourite book
+- which is intresting book you find
+- any specific genre you like to read 
+- your favourite book
+- your most favourite book
+- which is your most favourite book
+- what is your most favourite book
+- which type of books do you love to read
+- what book you would like to read the most
+- name one good book read of yours
+- what book keeps you captivated
+- which book you always enjoy whenever you read
+- which book compels you to read many times
+- any book which you read many times
+- which type of books do you like to read
+- which book do you like very much
+- tell me about your favourite book
+- tell me about your favourite book
+- which is intresting book you find
+- any specific genre you like to read
+
+## intent:user_name
+- what is my name
+- tell me my name
+- tell me my name
+- what am I called
+- my name
+- what my name
+- what do they call me
+- do you remember me
+- who am i
+- do you know what is my name
+- do you know what my name
+- tell me my name
+- what is my name
+- hey do you remember my name
+- who i am
+- do you know me
+
+- what is my name
+- tell me my name
+- tell me my name
+- what am I called
+- my name
+- what my name
+- what do they call me
+- do you remember me
+- who am i
+- do you know what is my name
+- do you know what my name
+- tell me my name
+- what is my name
+- hey do you remember my name
+- who i am
+- do you know me
+
+## intent:user_age
+- my age
+- what is my age
+- what is my age
+- tell me my age
+- how old am i
+- whats my age
+- how old did i get
+- how old i am
+- guess what my age is
+- do you remember my age
+- do you know how old I am
+
+- my age
+- what is my age
+- what is my age
+- tell me my age
+- how old am i
+- what my age
+- how old did i get
+- how old i am
+- guess what my age is
+- do you remember my age
+- do you know how old I am
+
+
+## intent:get_location
+- what is my location
+- tell me my location
+- tell me my location
+- my location
+- whats my location
+- where am i located
+- where do i live
+- where i live
+- what is my city
+- tell me my location
+- tell me my city
+- find my location
+- where i am now
+- find my area 
+- tell me my city
+- whats my city
+- do you know where i live
+- locate my place i am right now
+- where i live
+- where i am
+- where am i
+- what is my location
+- what is the name of my city
+- do you know the name of my city
+- have you remembered where i am from
+- tell me the name of my city
+- are you able to find my location
+- are you able to locate me
+
+- what is my location
+- tell me my location
+- tell me my location
+- my location
+- whats my location
+- where am i located
+- where do i live
+- where i live
+- where i am
+- where am i
+- locate my place i am right now
+- what is my location
+- what is my city
+- tell me my location
+- tell me my city
+- find my location
+- tell me my location
+- tell me my location
+- my location
+- whats my location
+- where am i located
+- where do i live
+- where i live
+- where i am
+- where am i
+- locate my place i am right now
+- what is my location
+- what is my city
+- tell me my location
+- tell me my city
+- tell me my city
+- find my location
+- where i am now
+- find my area 
+- tell me my city
+- whats my city
+- do you know where i live
+- where i live
+- what is the name of my city
+- do you know the name of my city
+- have you remembered where i am from
+- tell me the name of my city
+- are you able to find my location
+- are you able to locate me
+
+- what is my location
+- tell me my location
+- tell me my location
+- my location
+- whats my location
+- where am i located
+- where do i live
+- where i live
+- where i am
+- where am i
+- locate my place i am right now
+- what is my location
+- what is my city
+- tell me my location
+- tell me my city
+- tell me my city
+- find my location
+- where i am now
+- find my area 
+- tell me my city
+- whats my city
+- do you know where i live
+- where i live
+- what is the name of my city
+- do you know the name of my city
+- have you remembered where i am from
+- tell me the name of my city
+- are you able to find my location
+- are you able to locate me
+
+## intent:user_dob
+- my dob
+- my date of birth
+- what is my birthday
+- when is my birthday
+- when is my birthdate
+- when was I born
+- when is my birthday party
+- can i have my date of birth 
+- what is my date of birth
+- what is my dob
+- may i know my dob
+- may i ask my dob
+- share my dob
+- tell me my birthdate
+- do you mind if i ask my birthdate
+- when were you born or created
+- do you know my date of birth
+- when were you created
+- tell me what is my birthdate
+- tell me my birthday
+- do you know my birthday
+- what is my dob
+- when do i celebrate my birthday
+- do you remember my birthday
+- when my birthday will come
+
+## intent:user_email
+- my email
+- my email address
+- what is my email party
+- can i have my email 
+- what is my email
+- may i know my email
+- may i ask my email
+- share my email
+- tell me my email
+- do you mind if i ask my email
+- do you know my email
+- tell me what is my email
+- tell me my email address
+- what is my email address
+- i forgot my email address  help me
+- my email
+- my email address
+- what is my email party
+- can i have my email 
+- what is my email
+- may i know my email
+- may i ask my email
+- share my email
+- tell me my email
+- do you mind if i ask my email
+- do you know my email
+- tell me what is my email
+- tell me my email address
+- what is my email address
+- i forgot my email address  help me
+
+## intent:user_fav-place
+- what place is my most favourite place
+- where do i go to relax
+- guess my favourite place to be at
+- which my favourite place is
+- where do i often go
+- where do i want to go again and again
+- what is my favourite place
+- what is the place i like to visit
+- my favourite place
+- my favourite city
+- my favourite location
+
+- what place is my most favourite place
+- where do i go to relax
+- guess my favourite place to be at
+- which my favourite place is
+- where do i often go
+- where do i want to go again and again
+- what is my favourite place
+- what is the place i like to visit
+- my favourite place
+- my favourite city
+- my favourite location
+
+
+## intent:get_horoscope
+- what my horoscope says [pisces](zodiac_sign)
+- tell me horoscope of [cancer](zodiac_sign)
+- tell me horoscope of [leo](zodiac_sign) today
+- what is the horoscope of [virgo](zodiac_sign)
+- may i have todays horoscope of [scorpio](zodiac_sign)
+- is something new in todays horoscope of [sagittarius](zodiac_sign)
+- tell me about horoscope [cancer](zodiac_sign)
+- what my star says [aquarius](zodiac_sign)
+
+- what my horoscope says [pisces](zodiac_sign)
+- tell me horoscope of [cancer](zodiac_sign)
+- tell me horoscope of [leo](zodiac_sign) today
+- what is the horoscope of [virgo](zodiac_sign)
+- what does [libra](zodiac_sign) horoscope tell
+- may i have todays horoscope of [scorpio](zodiac_sign)
+- something new in todays horoscope of [sagittarius](zodiac_sign)
+- tell me about horoscope [cancer](zodiac_sign)
+- what is the horoscope of [libra](zodiac_sign)
+- what my horoscope says [leo](zodiac_sign)
+
+- what does horoscope of [capricorn](zodiac_sign) tell
+- what new in [libra](zodiac_sign) horoscope
+- i want to know about [taurus](zodiac_sign) horoscope
+- how will be my day [taurus](zodiac_sign)
+- do you know horoscope of [scorpio](zodiac_sign)
+- tell [taurus](zodiac_sign) horoscope too
+- [gemini](zodiac_sign) horoscope
+- tell horoscope of [virgo](zodiac_sign)
+
+- what does horoscope of [capricorn](zodiac_sign) tell
+- what new in [libra](zodiac_sign) horoscope
+- i want to know about [taurus](zodiac_sign) horoscope
+- how will be my day [taurus](zodiac_sign)
+- do you know horoscope of [scorpio](zodiac_sign)
+- tell [taurus](zodiac_sign) horoscope too
+- [gemini](zodiac_sign) horoscope
+- tell horoscope of [gemini](zodiac_sign)
+
+## intent:get_weather
+- what is the weather in [tokyo](city)
+- how is weather in [karachi](city)
+- what the weather in [toronto](city)
+- tell me weather update in [miami](city)
+- weather in [london](city)
+- is it raining in [australia](city)
+- may i know weather of [paris](city)
+- tell me weather in [riyadh](city)
+- [karachi](city) weather
+- what is the temperature of [dubai](city)
+- what is the weather update of today in [karachi](city)
+- climate of [karachi](city)
+- what are the climate conditions in [tokyo](city)
+- tell me the atmosphere in [japan](city)
+- temperature in [oslo](city)
+- what is temperature in [moscow](city)
+- how is climate in [leninsk](city)
+- tell me climate in [lahore](city)
+- temperature of [sweden](city)
+- [kabul](city) atmosphere
+- what is the climate of [dubai](city)
+- what is the climate update of today in [baku](city)
+- what is the atmosphere of [dubai](city)
+- what is the atmosphere update of today in [sarajevo](city)
+- weather of [cairo](city)
+- tell me the weather updates in [mumbai](city)
+- is there hot in [dubai](city)
+- how much temperature in [zagazig](city)
+- tell me weather update of [saudi arabia](city)
+- do you know weather condition of [al qurayn](city)
+- weather report [india](city)
+- weather of [mumbai](city)
+- how much wind in [pakistan](city)
+- tell me how much humidity in weather of [sri lanka](city)
+- [pakistan](city) weather
+- [brazil](city) weather
+- [oslo](city) weather
+- [frankfort](city) temperature
+- [algeria](city) temperature
+- [baku](city) climate
+- [middletown](city) climate
+- [abu dhabi](city)
+- do you have weather information about [somalia](city)
+- do you have weather info about [philadelphia](city)
+- do you have weather news about [london](city)
+- do you have weather info about [abu dhabi](city)
+- what is the weather of today [abu dhabi](city)
+- what is the weather like today
+- current weather situation
+- weather outside
+- weather situation outside
+- what are weather updates
+- how is the weather
+
+## intent:get_news
+- news
+- tell news
+- tell me the latest news
+- what is happening in the world
+- todays news
+- latest news
+- what is today news
+- what is news today
+- what is the news in
+- tell me some latest news in
+- what is some latest news in
+- give me some latest news
+- give me some news
+- what is the latest news
+- news update from [abu dhabi](city)
+- latest news from [somalia](city)
+- news about [uae](city)
+- latest news updates of [karachi](city)
+- [algeria](city) news today
+- current news from [baku](city)
+- what are the latest news from [abu dhabi](city)
+- news headlines
+- what is an update
+
+- news
+- tell news
+- tell me the latest news
+- what is happening in the world
+- todays news
+- latest news
+- what is today news
+- what is news today
+- what is the news in
+- tell me some latest news in
+- what is some latest news in
+- give me some latest news
+- give me some news
+- what is the latest news
+- news update from [abu dhabi](city)
+- latest news from [somalia](city)
+- news about [uae](city)
+- latest news updates of [karachi](city)
+- [algeria](city) news today
+- current news from [baku](city)
+- what are the latest news from [abu dhabi](city)
+- news headlines
+- what is an update
+
+- news
+- tell news
+- tell me the latest news
+- what is happening in the world
+- todays news
+- latest news
+- what is today news
+- what is news today
+- what is the news in
+- tell me some latest news in
+- what is some latest news in
+- give me some latest news
+- give me some news
+- what is the latest news
+- news update from [abu dhabi](city)
+- latest news from [somalia](city)
+- news about [uae](city)
+- latest news updates of [karachi](city)
+- [algeria](city) news today
+- current news from [baku](city)
+- what are the latest news from [abu dhabi](city)
+- news headlines
+- what is an update
+
+##intent:user_horoscope
+- tell some thing about my horoscope
+- what my horoscope says
+- tell me my horoscope
+- can you tell me what my horoscope says
+- what my zodiac sign says
+- what my horoscope tells
+- what my zodiac sign says
+- how will be my day today
+- what is my horoscope
+- whats my horoscope
+- my horoscope
+- what is my star
+- my star
+- tell me about my star
+- what my star says
+- what is horoscope of mine
+
+- tell some thing about my horoscope
+- what my horoscope says
+- tell me my horoscope
+- can you tell me what my horoscope says
+- what my zodiac sign says
+- what my horoscope tells
+- what my zodiac sign says
+- how will be my day today
+- what is my horoscope
+- whats my horoscope
+- my horoscope
+- what is my star
+- my star
+- tell me about my star
+- what my star says
+- what is horoscope of mine
+
+## intent:get_time
+- what is the current time in [abu dhabi](city)
+- what time is it in [lahore](city)
+- whats the time in [toronto](city)
+- [new dehli](city) time please
+- tell me the time in [new york](city)
+- time in [karachi](city)
+- what is the current time
+- what is the standard time in [philadelphia](city)
+- current time
+- current time of [zagazig](city)
+- what time is it
+- what time is it in [cairo](city)
+- what is the time
+- what is the time
+- what the time
+- what date is today
+- what day is it today
+- what is the day today
+
+- what is the current time in [abu dhabi](city)
+- what time is it in [lahore](city)
+- whats the time in [toronto](city)
+- [new dehli](city) time please
+- tell me the time in [new york](city)
+- time in [karachi](city)
+- what is the current time
+- what is the standard time in [philadelphia](city)
+- current time
+- current time of [zagazig](city)
+- what time is it
+- what time is it in [cairo](city)
+- what is the time
+- what is the time
+- what the time
+- what date is today
+- what day is it today
+- what is the day today
+
+
+## intent:get_placeinfo
+- based on where I am right now please share what would be important for me to know
+- based on my location please share what would be important for me to know
+- tell me something important for my location
+- tell me something important
+- what would be important for me to know
+
+
+## intent:cronus_bye
+- bye
+- bye
+- bye bot
+- bye bye
+- bye bye bot
+- bye for now
+- bye was nice talking to you
+- catch you later
+- farewell
+- good bye
+- good night
+- goodbye
+- goodbye
+- goodnight
+- gotta go
+- ok bye
+- ok bye
+- see u later
+- see ya
+- see you
+- see you bye
+- take care
+- then bye
+- tlak to you later
+- exit
+- byr
+- tata
+
+## lookup:zodiac_sign
+- aquarius
+- pisces
+- aries
+- taurus
+- gemini
+- cancer
+- leo
+- virgo
+- libra
+- scorpio
+- sagittarius
+- capricorn
+
+## lookup:languages
+- english
+- chinese
+- hindi
+- spanish
+- french
+- arabic
+- bengali
+- russian
+- portuguese
+- indonesian
+- urdu
+- turkish
+- italian
+- norwegian
+- dutch
+- polish
+- danish
+- swedish
+- finnish
+
+## lookup:city
+/home/world_cities_new.txt

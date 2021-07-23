@@ -1,0 +1,5611 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "cronus_greet",
+        "text": "hey"
+      },
+      {
+        "intent": "cronus_greet",
+        "text": "hello"
+      },
+      {
+        "intent": "cronus_greet",
+        "text": "helo"
+      },
+      {
+        "intent": "cronus_greet",
+        "text": "hi"
+      },
+      {
+        "intent": "cronus_greet",
+        "text": "hiya"
+      },
+      {
+        "intent": "cronus_greet",
+        "text": "good morning"
+      },
+      {
+        "intent": "cronus_greet",
+        "text": "good evening"
+      },
+      {
+        "intent": "cronus_greet",
+        "text": "good afternoon"
+      },
+      {
+        "intent": "cronus_greet",
+        "text": "hey there"
+      },
+      {
+        "intent": "cronus_greet",
+        "text": "hello there"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "what is your gender"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you male or female"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "what is your sex"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you male"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you female"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you a transgender"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "tell me your gender"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you masculine"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you feminine"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you male female"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "what is your gender"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you male or female"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "what is your sex"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you male"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you female"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you a transgender"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "tell me your gender"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you masculine"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you feminine"
+      },
+      {
+        "intent": "cronus_gender",
+        "text": "are you male female"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "your date of birth"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "whats your birthday"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when is your birthday"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when is your birthdate"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when were you born"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when is your birthday party"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "can i have your date of birth"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "what is your date of birth"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "what is your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "may i know your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "may i ask your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "share your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "tell me your birthdate"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "do you mind if i ask your birthdate"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when were you born or created"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "do you know your date of birth"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when were you created"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "your date of birth"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "what your birthday"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when is your birthday"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when is your birthdate"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when were you born"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when is your birthday party"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "can i have your date of birth"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "what is your date of birth"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "what is your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "may i know your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "may i ask your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "share your dob"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "tell me your birthdate"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "do you mind if i ask your birthdate"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when were you born or created"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "do you know your date of birth"
+      },
+      {
+        "intent": "cronus_dob",
+        "text": "when were you created"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "what is your age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "your age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "how old did you get"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "how old are you"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "how old are you now"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "how old did you turn"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "may i ask your age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "may i get to know you age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "do you mind if i ask how old you are"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "tell me your age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "what is your current age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "how old are you right now"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "what is your present age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "by the way what is your age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "what is your age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "your age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "how old did you get"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "how old are you"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "how old are you now"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "how old did you turn"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "may i ask your age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "may i get to know you age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "do you mind if i ask how old you are"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "tell me your age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "what is your current age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "how old are you right now"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "what is your present age"
+      },
+      {
+        "intent": "cronus_age",
+        "text": "by the way what is your age"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what is your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "tell me your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "may i ask you what your name is"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "how may i address you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "how do they call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "how is one to call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "could i ask your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "i forgot your name could you  remind me"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what should i call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what do your friends call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "how do people call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what do your owner call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what do others call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "may I know your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "who are you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "tell me briefly about yourself"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "tell me about yourself"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "introduce yourself"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "may i know who this is"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "who is this"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what is your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "tell me your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "may i ask you what your name is"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "how may i address you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "how do they call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "how is one to call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "could i ask your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "i forgot your name could you  remind me"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what should i call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what do your friends call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "how do people call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what do your owner call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "what do others call you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "may I know your name"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "who are you"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "tell me briefly about yourself"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "tell me about yourself"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "introduce yourself"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "may i know who this is"
+      },
+      {
+        "intent": "cronus_name",
+        "text": "who is this"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "your city"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where are you from"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "what is your city"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "could you tell me where you are from"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where do you stay"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where are you from"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where do you live"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where do you reside"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where do you live currently"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where are you now"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "are you in Abu Dhabi"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "your birth place"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where you belong from"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "may i know which city you belong to"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "your city"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where are you from"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "what is your city"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "could you tell me where you are from"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where do you stay"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where are you from"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where do you live"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where do you reside"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where do you live currently"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where are you now"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "are you in Abu Dhabi"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "your birth place"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "where you belong from"
+      },
+      {
+        "intent": "cronus_city",
+        "text": "may i know which city you belong to"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "which languages can you speak"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "what languages can you speak"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "which languages do you speak"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "which languages do you know"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "how many languages can you speak"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "how many languages do you know"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 6,
+            "end": 12,
+            "value": "french",
+            "entity": "languages"
+          }
+        ],
+        "text": "speak french"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 9,
+            "end": 15,
+            "value": "arabic",
+            "entity": "languages"
+          }
+        ],
+        "text": "speak in arabic"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "spanish",
+            "entity": "languages"
+          }
+        ],
+        "text": "know to speak in spanish"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 14,
+            "end": 18,
+            "value": "urdu",
+            "entity": "languages"
+          }
+        ],
+        "text": "know to speak urdu"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 24,
+            "end": 30,
+            "value": "hebrew",
+            "entity": "languages"
+          }
+        ],
+        "text": "do you know to speak in hebrew"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "english",
+            "entity": "languages"
+          }
+        ],
+        "text": "talk in english"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "which languages can you speak"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "what languages can you speak"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "which languages do you speak"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "which languages do you know"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "how many languages can you speak"
+      },
+      {
+        "intent": "cronus_languages",
+        "text": "how many languages do you know"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 6,
+            "end": 12,
+            "value": "french",
+            "entity": "languages"
+          }
+        ],
+        "text": "speak french"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 9,
+            "end": 15,
+            "value": "arabic",
+            "entity": "languages"
+          }
+        ],
+        "text": "speak in arabic"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "spanish",
+            "entity": "languages"
+          }
+        ],
+        "text": "know to speak in spanish"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 14,
+            "end": 18,
+            "value": "urdu",
+            "entity": "languages"
+          }
+        ],
+        "text": "know to speak urdu"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 24,
+            "end": 30,
+            "value": "hebrew",
+            "entity": "languages"
+          }
+        ],
+        "text": "do you know to speak in hebrew"
+      },
+      {
+        "intent": "cronus_languages",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "english",
+            "entity": "languages"
+          }
+        ],
+        "text": "talk in english"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "your job"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "your profession"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what is your work"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what do you do for a living"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what do you do"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what is your job"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what kind of work do you do"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what line of work are you in"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "i would be interested to hear about what you do"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what you do"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what is your nature of work"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what is your nature of job"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what you do as a chatbot"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what is your key responsibility on a job"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "tell me about your job"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "where are you working"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "your job"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "your profession"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what is your work"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what do you do for a living"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what do you do"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what is your job"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what kind of work do you do"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what line of work are you in"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "i would be interested to hear about what you do"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what you do"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what is your nature of work"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what is your nature of job"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what you do as a chatbot"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "what is your key responsibility on a job"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "tell me about your job"
+      },
+      {
+        "intent": "cronus_job",
+        "text": "where are you working"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "how much study you have done"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what is your educational background"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "tell me about your educational qualifications"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what are your qualifications"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what college have you been to"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "your college"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "your school"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "where did you get your degree from"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what is your education"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "your education"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "tell me about your studies"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what have you studied"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what course have you studied"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what is your major in studies"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what is your education level"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "tell me how much education you have received"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "have you got your degree"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "do you have a degree"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "how much study you have done"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what is your educational background"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "tell me about your educational qualifications"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what are your qualifications"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what college have you been to"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "your college"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "your school"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "where did you get your degree from"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what is your education"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "your education"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "tell me about your studies"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what have you studied"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what course have you studied"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what is your major in studies"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "what is your education level"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "tell me how much education you have received"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "have you got your degree"
+      },
+      {
+        "intent": "cronus_education",
+        "text": "do you have a degree"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "do you have a hobby"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what are your hobbies"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "your hobbies"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "tell about your hobbies"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what do you do in your spare time"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what do you do in your leisure time"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what things do you find most interesting"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what are your interests"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "your interests"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "how do you make your spare time interesting"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what activities you find yourself intrigued about the most"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "list your activities which you are most interested in"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "do you even have anything interesting to do other than this"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what is your favourite hobby"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "how many things do you do in your free time"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "how many activities do you do in your free time"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "tell me about your hobbies"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what is interesting for you to do to make you happy"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "do you have a hobby"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what are your hobbies"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "your hobbies"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "tell about your hobbies"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what do you do in your spare time"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what do you do in your leisure time"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what things do you find most interesting"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what are your interests"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "your interests"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "how do you make your spare time interesting"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what activities you find yourself intrigued about the most"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "list your activities which you are most interested in"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "do you even have anything interesting to do other than this"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what is your favourite hobby"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "how many things do you do in your free time"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "how many activities do you do in your free time"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "tell me about your hobbies"
+      },
+      {
+        "intent": "cronus_hobbies",
+        "text": "what is interesting for you to do to make you happy"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "what is your country"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "your country"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "which country do you belong to"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "in which country do you live"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "in what part of the world you reside"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "what nationality do you hold"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "what is your nationality"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "i am very curious about your nationality"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "may i know which state you belong to"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "are you from america"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "are you a british national"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "which country’s nationality do you have"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "are you dual national"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "may I know your nationality"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "how many nationalities do you have"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "what is your country"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "your country"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "which country do you belong to"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "in which country do you live"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "in what part of the world you reside"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "what nationality do you hold"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "what is your nationality"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "i am very curious about your nationality"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "may i know which state you belong to"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "are you from america"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "are you a british national"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "which country’s nationality do you have"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "are you dual national"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "may I know your nationality"
+      },
+      {
+        "intent": "cronus_country",
+        "text": "how many nationalities do you have"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "whose music you like the most"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "what is your favourite song"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "who is your favourite musician"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "tell me about your kind of music and who do you like to listen most"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "tell me about your favourite music makers"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "who is the best among all the music producers in the world"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "what is your favourite song"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "which is your favourite song"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "your favourite music"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "your favourite musician"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "do you like music"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "what is your favourite music"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "which type of music do you like most"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "which style of music do you like to listen"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "which style of music do you want to listen"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "is there any favourite song of yours"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "who is your favourite singer"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "whose music you like the most"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "what is your favourite song"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "who is your favourite musician"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "tell me about your kind of music and who do you like to listen most"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "tell me about your favourite music makers"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "who is the best among all the music producers in the world"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "what is your favourite song"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "which is your favourite song"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "your favourite music"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "your favourite musician"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "do you like music"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "what is your favourite music"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "which type of music do you like most"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "which style of music do you like to listen"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "which style of music do you want to listen"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "is there any favourite song of yours"
+      },
+      {
+        "intent": "cronus_music",
+        "text": "who is your favourite singer"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "what is your favourite color"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "your favourite color"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "which color do you like"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "what shades in clothing you like to wear most often"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "what kind of hues you prefer to wear"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "defines yourself in a shade or hue you like the most"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "which color do you like the most"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "do you prefer specific color while selecting clothes"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "which shade of color do you like most"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "what is your favorite color"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "what is your favourite color"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "your favourite color"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "which color do you like"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "what shades in clothing you like to wear most often"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "what kind of hues you prefer to wear"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "defines yourself in a shade or hue you like the most"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "which color do you like the most"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "do you prefer specific color while selecting clothes"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "which shade of color do you like most"
+      },
+      {
+        "intent": "cronus_color",
+        "text": "what is your favorite color"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "do you have any brother"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many brothers do you have"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "do you have any sister"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many sister do you have"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many siblings do you have"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "do you have any siblings"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "any brothers or sisters"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many brothers and sisters do you have"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many kinsmen do you have and what do you call them"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "what do you call your kinsman"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how do you call out your kinsman"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "name all your male kinsfolk"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many kinswomen do you have and what do you call them"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "what do you call your kinswoman"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how do you call out your kinswoman"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "name all your female kinsfolk"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "do you have elder sister brother"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "do you have younger sister brother"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many siblings"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "younger or older among siblings"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "do you have any brother"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many brothers do you have"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "do you have any sister"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many sister do you have"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many siblings do you have"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "do you have any siblings"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "any brothers or sisters"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many brothers and sisters do you have"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many kinsmen do you have and what do you call them"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "what do you call your kinsman"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how do you call out your kinsman"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "name all your male kinsfolk"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many kinswomen do you have and what do you call them"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "what do you call your kinswoman"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how do you call out your kinswoman"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "name all your female kinsfolk"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "do you have elder sister brother"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "do you have younger sister brother"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "how many siblings"
+      },
+      {
+        "intent": "cronus_sibling",
+        "text": "younger or older among siblings"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who made you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who is your developer"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who are your developers"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who developed you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who is your owner"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who owns you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who created you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "tell me about your owner"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who updated you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "introduce your owner"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "tell me about your owner"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "tell me about your developer"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who is responsible of you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who takes your responsibility"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who made you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who is your developer"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who are your developers"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who developed you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who is your owner"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who owns you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who created you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "tell me about your owner"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who updated you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "introduce your owner"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "tell me about your owner"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "tell me about your developer"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who is responsible of you"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "who takes your responsibility"
+      },
+      {
+        "intent": "cronus_owner_developer",
+        "text": "tell me your boss"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "name of your organization"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "name of your company"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "name of your firm"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "your organization"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "your company"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "your firm"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "tell me about your organization"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "tell me about your company"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "tell me about your firm"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "where are you working"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which company are you working"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which organization are you working"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which firm are you working for"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which company do you work for"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which organization do you work for"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which firm do you work for"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "name of your organization"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "name of your company"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "name of your firm"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "your organization"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "your company"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "your firm"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "tell me about your organization"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "tell me about your company"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "tell me about your firm"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "where are you working"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which company are you working"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which organization are you working"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which firm are you working for"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which company do you work for"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which organization do you work for"
+      },
+      {
+        "intent": "cronus_organization",
+        "text": "which firm do you work for"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "are you married"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "are you single"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "do you have a husband"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "do you hava a wife"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "do you have a spouse"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "do you have a significant other"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "have you got a spouse"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "what is your marital status"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "when you have plan to get married"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "are you married"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "are you single"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "do you have a husband"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "do you hava a wife"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "do you have a spouse"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "do you have a significant other"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "have you got a spouse"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "what is your marital status"
+      },
+      {
+        "intent": "cronus_marriage",
+        "text": "when you have plan to get married"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "who is your favourite poet"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "your favourite poet"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "your most liked poet"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "whose poetry you like the most"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "whose poetry you like"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "whose poems are your favourite"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "do you like shakespeare poems"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "whose poetry would you prefer to read"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "whose poetry is your favourite"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "name the poet in whose poetry you are interested"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "i like poetries do you like it"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "do you like poetries"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "who is your favourite poet"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "your favourite poet"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "your most liked poet"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "whose poetry you like the most"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "whose poetry you like"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "whose poems are your favourite"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "do you like shakespeare poems"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "whose poetry would you prefer to read"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "whose poetry is your favourite"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "name the poet in whose poetry you are interested"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "i like poetries do you like it"
+      },
+      {
+        "intent": "cronus_poet",
+        "text": "do you like poetries"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "what is your favourite sportsman"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "who is your favourite sportsman"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "what sports person is your favourite"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "who inspires you the most in sports"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "because of whom do you like a sport"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "which sports personality do you like"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "which sports personality do you like most"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "which sports celebrity do you like most"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "do you like any sportsman"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "who do you think the most talented sportsman"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "who is your personal hero"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "your favourite sportsman"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "what is your favourite sportsman"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "who is your favourite sportsman"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "what sports person is your favourite"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "who inspires you the most in sports"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "because of whom do you like a sport"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "which sports personality do you like"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "which sports personality do you like most"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "which sports celebrity do you like most"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "do you like any sportsman"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "who do you think the most talented sportsman"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "who is your personal hero"
+      },
+      {
+        "intent": "cronus_sportsman",
+        "text": "your favourite sportsman"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "do you have any parents"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "do you have a mother"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "do you have a father"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "do you have a father or mother"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "what do you call your matriarch"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "can i know the name of the woman who gave birth to you"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "who is the woman birthed you"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "i am interested in knowing your mom official title"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "are your parents alive"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "to whom you are more closer in your parents"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "tell me about your family"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "what does your father do"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "is your mother a housewife"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "tell me about your family"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "do you have a family"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "do you have any parents"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "do you have a mother"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "do you have a father"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "do you have a father or mother"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "what do you call your matriarch"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "can i know the name of the woman who gave birth to you"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "who is the woman birthed you"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "i am interested in knowing your mom official title"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "are your parents alive"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "to whom you are more closer in your parents"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "tell me about your family"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "what does your father do"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "is your mother a housewife"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "tell me about your family"
+      },
+      {
+        "intent": "cronus_parent",
+        "text": "do you have a family"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "your favourite actor actress"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "your favorite celebrity"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "who is your favourite actor"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "who is your favourite actress"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "who is your favourite male celebrity"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "who is your favourite female celebrity"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "i want to know about your favourite celebbrity"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "name one celebrity you like to watch"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "which celebrity is your all time favourite"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "do you like any celebrity"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "is there any celebrity you like to watch"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "is there any actor or actress you like to watch"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "tell me the name of famous actor"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "your favourite actor actress"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "your favorite celebrity"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "who is your favourite actor"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "who is your favourite actress"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "who is your favourite male celebrity"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "who is your favourite female celebrity"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "i want to know about your favourite celebbrity"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "name one celebrity you like to watch"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "which celebrity is your all time favourite"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "do you like any celebrity"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "is there any celebrity you like to watch"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "is there any actor or actress you like to watch"
+      },
+      {
+        "intent": "cronus_actor",
+        "text": "tell me the name of famous actor"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "your favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "your most favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which is your most favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "what is your most favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which type of books do you love to read"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "what book you would like to read the most"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "name one good book read of yours"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "what book keeps you captivated"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which book you always enjoy whenever you read"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which book compels you to read many times"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "any book which you read many times"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which type of books do you like to read"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which book do you like very much"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "tell me about your favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "tell me about your favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which is intresting book you find"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "any specific genre you like to read"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "your favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "your most favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which is your most favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "what is your most favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which type of books do you love to read"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "what book you would like to read the most"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "name one good book read of yours"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "what book keeps you captivated"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which book you always enjoy whenever you read"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which book compels you to read many times"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "any book which you read many times"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which type of books do you like to read"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which book do you like very much"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "tell me about your favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "tell me about your favourite book"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "which is intresting book you find"
+      },
+      {
+        "intent": "cronus_book",
+        "text": "any specific genre you like to read"
+      },
+      {
+        "intent": "user_name",
+        "text": "what is my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "tell me my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "tell me my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "what am I called"
+      },
+      {
+        "intent": "user_name",
+        "text": "my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "what my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "what do they call me"
+      },
+      {
+        "intent": "user_name",
+        "text": "do you remember me"
+      },
+      {
+        "intent": "user_name",
+        "text": "who am i"
+      },
+      {
+        "intent": "user_name",
+        "text": "do you know what is my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "do you know what my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "tell me my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "what is my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "hey do you remember my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "who i am"
+      },
+      {
+        "intent": "user_name",
+        "text": "do you know me"
+      },
+      {
+        "intent": "user_name",
+        "text": "what is my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "tell me my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "tell me my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "what am I called"
+      },
+      {
+        "intent": "user_name",
+        "text": "my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "what my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "what do they call me"
+      },
+      {
+        "intent": "user_name",
+        "text": "do you remember me"
+      },
+      {
+        "intent": "user_name",
+        "text": "who am i"
+      },
+      {
+        "intent": "user_name",
+        "text": "do you know what is my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "do you know what my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "tell me my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "what is my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "hey do you remember my name"
+      },
+      {
+        "intent": "user_name",
+        "text": "who i am"
+      },
+      {
+        "intent": "user_name",
+        "text": "do you know me"
+      },
+      {
+        "intent": "user_age",
+        "text": "my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "what is my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "what is my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "tell me my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "how old am i"
+      },
+      {
+        "intent": "user_age",
+        "text": "whats my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "how old did i get"
+      },
+      {
+        "intent": "user_age",
+        "text": "how old i am"
+      },
+      {
+        "intent": "user_age",
+        "text": "guess what my age is"
+      },
+      {
+        "intent": "user_age",
+        "text": "do you remember my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "do you know how old I am"
+      },
+      {
+        "intent": "user_age",
+        "text": "my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "what is my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "what is my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "tell me my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "how old am i"
+      },
+      {
+        "intent": "user_age",
+        "text": "what my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "how old did i get"
+      },
+      {
+        "intent": "user_age",
+        "text": "how old i am"
+      },
+      {
+        "intent": "user_age",
+        "text": "guess what my age is"
+      },
+      {
+        "intent": "user_age",
+        "text": "do you remember my age"
+      },
+      {
+        "intent": "user_age",
+        "text": "do you know how old I am"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "whats my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "where am i located"
+      },
+      {
+        "intent": "get_location",
+        "text": "where do i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "find my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i am now"
+      },
+      {
+        "intent": "get_location",
+        "text": "find my area"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "whats my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "do you know where i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "locate my place i am right now"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i am"
+      },
+      {
+        "intent": "get_location",
+        "text": "where am i"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is the name of my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "do you know the name of my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "have you remembered where i am from"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me the name of my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "are you able to find my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "are you able to locate me"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "whats my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "where am i located"
+      },
+      {
+        "intent": "get_location",
+        "text": "where do i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i am"
+      },
+      {
+        "intent": "get_location",
+        "text": "where am i"
+      },
+      {
+        "intent": "get_location",
+        "text": "locate my place i am right now"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "find my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "whats my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "where am i located"
+      },
+      {
+        "intent": "get_location",
+        "text": "where do i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i am"
+      },
+      {
+        "intent": "get_location",
+        "text": "where am i"
+      },
+      {
+        "intent": "get_location",
+        "text": "locate my place i am right now"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "find my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i am now"
+      },
+      {
+        "intent": "get_location",
+        "text": "find my area"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "whats my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "do you know where i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is the name of my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "do you know the name of my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "have you remembered where i am from"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me the name of my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "are you able to find my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "are you able to locate me"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "whats my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "where am i located"
+      },
+      {
+        "intent": "get_location",
+        "text": "where do i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i am"
+      },
+      {
+        "intent": "get_location",
+        "text": "where am i"
+      },
+      {
+        "intent": "get_location",
+        "text": "locate my place i am right now"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "find my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i am now"
+      },
+      {
+        "intent": "get_location",
+        "text": "find my area"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "whats my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "do you know where i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "where i live"
+      },
+      {
+        "intent": "get_location",
+        "text": "what is the name of my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "do you know the name of my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "have you remembered where i am from"
+      },
+      {
+        "intent": "get_location",
+        "text": "tell me the name of my city"
+      },
+      {
+        "intent": "get_location",
+        "text": "are you able to find my location"
+      },
+      {
+        "intent": "get_location",
+        "text": "are you able to locate me"
+      },
+      {
+        "intent": "user_dob",
+        "text": "my dob"
+      },
+      {
+        "intent": "user_dob",
+        "text": "my date of birth"
+      },
+      {
+        "intent": "user_dob",
+        "text": "what is my birthday"
+      },
+      {
+        "intent": "user_dob",
+        "text": "when is my birthday"
+      },
+      {
+        "intent": "user_dob",
+        "text": "when is my birthdate"
+      },
+      {
+        "intent": "user_dob",
+        "text": "when was I born"
+      },
+      {
+        "intent": "user_dob",
+        "text": "when is my birthday party"
+      },
+      {
+        "intent": "user_dob",
+        "text": "can i have my date of birth"
+      },
+      {
+        "intent": "user_dob",
+        "text": "what is my date of birth"
+      },
+      {
+        "intent": "user_dob",
+        "text": "what is my dob"
+      },
+      {
+        "intent": "user_dob",
+        "text": "may i know my dob"
+      },
+      {
+        "intent": "user_dob",
+        "text": "may i ask my dob"
+      },
+      {
+        "intent": "user_dob",
+        "text": "share my dob"
+      },
+      {
+        "intent": "user_dob",
+        "text": "tell me my birthdate"
+      },
+      {
+        "intent": "user_dob",
+        "text": "do you mind if i ask my birthdate"
+      },
+      {
+        "intent": "user_dob",
+        "text": "when were you born or created"
+      },
+      {
+        "intent": "user_dob",
+        "text": "do you know my date of birth"
+      },
+      {
+        "intent": "user_dob",
+        "text": "when were you created"
+      },
+      {
+        "intent": "user_dob",
+        "text": "tell me what is my birthdate"
+      },
+      {
+        "intent": "user_dob",
+        "text": "tell me my birthday"
+      },
+      {
+        "intent": "user_dob",
+        "text": "do you know my birthday"
+      },
+      {
+        "intent": "user_dob",
+        "text": "what is my dob"
+      },
+      {
+        "intent": "user_dob",
+        "text": "when do i celebrate my birthday"
+      },
+      {
+        "intent": "user_dob",
+        "text": "do you remember my birthday"
+      },
+      {
+        "intent": "user_dob",
+        "text": "when my birthday will come"
+      },
+      {
+        "intent": "user_email",
+        "text": "my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "my email address"
+      },
+      {
+        "intent": "user_email",
+        "text": "what is my email party"
+      },
+      {
+        "intent": "user_email",
+        "text": "can i have my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "what is my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "may i know my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "may i ask my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "share my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "tell me my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "do you mind if i ask my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "do you know my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "tell me what is my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "tell me my email address"
+      },
+      {
+        "intent": "user_email",
+        "text": "what is my email address"
+      },
+      {
+        "intent": "user_email",
+        "text": "i forgot my email address  help me"
+      },
+      {
+        "intent": "user_email",
+        "text": "my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "my email address"
+      },
+      {
+        "intent": "user_email",
+        "text": "what is my email party"
+      },
+      {
+        "intent": "user_email",
+        "text": "can i have my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "what is my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "may i know my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "may i ask my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "share my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "tell me my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "do you mind if i ask my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "do you know my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "tell me what is my email"
+      },
+      {
+        "intent": "user_email",
+        "text": "tell me my email address"
+      },
+      {
+        "intent": "user_email",
+        "text": "what is my email address"
+      },
+      {
+        "intent": "user_email",
+        "text": "i forgot my email address  help me"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "what place is my most favourite place"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "where do i go to relax"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "guess my favourite place to be at"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "which my favourite place is"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "where do i often go"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "where do i want to go again and again"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "what is my favourite place"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "what is the place i like to visit"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "my favourite place"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "my favourite city"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "my favourite location"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "what place is my most favourite place"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "where do i go to relax"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "guess my favourite place to be at"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "which my favourite place is"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "where do i often go"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "where do i want to go again and again"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "what is my favourite place"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "what is the place i like to visit"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "my favourite place"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "my favourite city"
+      },
+      {
+        "intent": "user_fav-place",
+        "text": "my favourite location"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 23,
+            "end": 29,
+            "value": "pisces",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what my horoscope says pisces"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 21,
+            "end": 27,
+            "value": "cancer",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "tell me horoscope of cancer"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "leo",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "tell me horoscope of leo today"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 25,
+            "end": 30,
+            "value": "virgo",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what is the horoscope of virgo"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 31,
+            "end": 38,
+            "value": "scorpio",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "may i have todays horoscope of scorpio"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 40,
+            "end": 51,
+            "value": "sagittarius",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "is something new in todays horoscope of sagittarius"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 24,
+            "end": 30,
+            "value": "cancer",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "tell me about horoscope cancer"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 18,
+            "end": 26,
+            "value": "aquarius",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what my star says aquarius"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 23,
+            "end": 29,
+            "value": "pisces",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what my horoscope says pisces"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 21,
+            "end": 27,
+            "value": "cancer",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "tell me horoscope of cancer"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "leo",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "tell me horoscope of leo today"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 25,
+            "end": 30,
+            "value": "virgo",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what is the horoscope of virgo"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 10,
+            "end": 15,
+            "value": "libra",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what does libra horoscope tell"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 31,
+            "end": 38,
+            "value": "scorpio",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "may i have todays horoscope of scorpio"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 37,
+            "end": 48,
+            "value": "sagittarius",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "something new in todays horoscope of sagittarius"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 24,
+            "end": 30,
+            "value": "cancer",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "tell me about horoscope cancer"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 25,
+            "end": 30,
+            "value": "libra",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what is the horoscope of libra"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "leo",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what my horoscope says leo"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 23,
+            "end": 32,
+            "value": "capricorn",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what does horoscope of capricorn tell"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 12,
+            "end": 17,
+            "value": "libra",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what new in libra horoscope"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 21,
+            "end": 27,
+            "value": "taurus",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "i want to know about taurus horoscope"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "taurus",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "how will be my day taurus"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 25,
+            "end": 32,
+            "value": "scorpio",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "do you know horoscope of scorpio"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "taurus",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "tell taurus horoscope too"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "gemini",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "gemini horoscope"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 18,
+            "end": 23,
+            "value": "virgo",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "tell horoscope of virgo"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 23,
+            "end": 32,
+            "value": "capricorn",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what does horoscope of capricorn tell"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 12,
+            "end": 17,
+            "value": "libra",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "what new in libra horoscope"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 21,
+            "end": 27,
+            "value": "taurus",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "i want to know about taurus horoscope"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "taurus",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "how will be my day taurus"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 25,
+            "end": 32,
+            "value": "scorpio",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "do you know horoscope of scorpio"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "taurus",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "tell taurus horoscope too"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "gemini",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "gemini horoscope"
+      },
+      {
+        "intent": "get_horoscope",
+        "entities": [
+          {
+            "start": 18,
+            "end": 24,
+            "value": "gemini",
+            "entity": "zodiac_sign"
+          }
+        ],
+        "text": "tell horoscope of gemini"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 23,
+            "end": 28,
+            "value": "tokyo",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the weather in tokyo"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 18,
+            "end": 25,
+            "value": "karachi",
+            "entity": "city"
+          }
+        ],
+        "text": "how is weather in karachi"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 20,
+            "end": 27,
+            "value": "toronto",
+            "entity": "city"
+          }
+        ],
+        "text": "what the weather in toronto"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 26,
+            "end": 31,
+            "value": "miami",
+            "entity": "city"
+          }
+        ],
+        "text": "tell me weather update in miami"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 11,
+            "end": 17,
+            "value": "london",
+            "entity": "city"
+          }
+        ],
+        "text": "weather in london"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "australia",
+            "entity": "city"
+          }
+        ],
+        "text": "is it raining in australia"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 22,
+            "end": 27,
+            "value": "paris",
+            "entity": "city"
+          }
+        ],
+        "text": "may i know weather of paris"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "riyadh",
+            "entity": "city"
+          }
+        ],
+        "text": "tell me weather in riyadh"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "karachi",
+            "entity": "city"
+          }
+        ],
+        "text": "karachi weather"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 27,
+            "end": 32,
+            "value": "dubai",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the temperature of dubai"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 39,
+            "end": 46,
+            "value": "karachi",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the weather update of today in karachi"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 11,
+            "end": 18,
+            "value": "karachi",
+            "entity": "city"
+          }
+        ],
+        "text": "climate of karachi"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 35,
+            "end": 40,
+            "value": "tokyo",
+            "entity": "city"
+          }
+        ],
+        "text": "what are the climate conditions in tokyo"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 26,
+            "end": 31,
+            "value": "japan",
+            "entity": "city"
+          }
+        ],
+        "text": "tell me the atmosphere in japan"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 15,
+            "end": 19,
+            "value": "oslo",
+            "entity": "city"
+          }
+        ],
+        "text": "temperature in oslo"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 23,
+            "end": 29,
+            "value": "moscow",
+            "entity": "city"
+          }
+        ],
+        "text": "what is temperature in moscow"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 18,
+            "end": 25,
+            "value": "leninsk",
+            "entity": "city"
+          }
+        ],
+        "text": "how is climate in leninsk"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "lahore",
+            "entity": "city"
+          }
+        ],
+        "text": "tell me climate in lahore"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 15,
+            "end": 21,
+            "value": "sweden",
+            "entity": "city"
+          }
+        ],
+        "text": "temperature of sweden"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "kabul",
+            "entity": "city"
+          }
+        ],
+        "text": "kabul atmosphere"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 23,
+            "end": 28,
+            "value": "dubai",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the climate of dubai"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 39,
+            "end": 43,
+            "value": "baku",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the climate update of today in baku"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 26,
+            "end": 31,
+            "value": "dubai",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the atmosphere of dubai"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 42,
+            "end": 50,
+            "value": "sarajevo",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the atmosphere update of today in sarajevo"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 11,
+            "end": 16,
+            "value": "cairo",
+            "entity": "city"
+          }
+        ],
+        "text": "weather of cairo"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 31,
+            "end": 37,
+            "value": "mumbai",
+            "entity": "city"
+          }
+        ],
+        "text": "tell me the weather updates in mumbai"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 16,
+            "end": 21,
+            "value": "dubai",
+            "entity": "city"
+          }
+        ],
+        "text": "is there hot in dubai"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 24,
+            "end": 31,
+            "value": "zagazig",
+            "entity": "city"
+          }
+        ],
+        "text": "how much temperature in zagazig"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 26,
+            "end": 38,
+            "value": "saudi arabia",
+            "entity": "city"
+          }
+        ],
+        "text": "tell me weather update of saudi arabia"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 33,
+            "end": 42,
+            "value": "al qurayn",
+            "entity": "city"
+          }
+        ],
+        "text": "do you know weather condition of al qurayn"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 15,
+            "end": 20,
+            "value": "india",
+            "entity": "city"
+          }
+        ],
+        "text": "weather report india"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 11,
+            "end": 17,
+            "value": "mumbai",
+            "entity": "city"
+          }
+        ],
+        "text": "weather of mumbai"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 17,
+            "end": 25,
+            "value": "pakistan",
+            "entity": "city"
+          }
+        ],
+        "text": "how much wind in pakistan"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 40,
+            "end": 49,
+            "value": "sri lanka",
+            "entity": "city"
+          }
+        ],
+        "text": "tell me how much humidity in weather of sri lanka"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "pakistan",
+            "entity": "city"
+          }
+        ],
+        "text": "pakistan weather"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "brazil",
+            "entity": "city"
+          }
+        ],
+        "text": "brazil weather"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "oslo",
+            "entity": "city"
+          }
+        ],
+        "text": "oslo weather"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "frankfort",
+            "entity": "city"
+          }
+        ],
+        "text": "frankfort temperature"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "algeria",
+            "entity": "city"
+          }
+        ],
+        "text": "algeria temperature"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "baku",
+            "entity": "city"
+          }
+        ],
+        "text": "baku climate"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "middletown",
+            "entity": "city"
+          }
+        ],
+        "text": "middletown climate"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "abu dhabi"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 38,
+            "end": 45,
+            "value": "somalia",
+            "entity": "city"
+          }
+        ],
+        "text": "do you have weather information about somalia"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 31,
+            "end": 43,
+            "value": "philadelphia",
+            "entity": "city"
+          }
+        ],
+        "text": "do you have weather info about philadelphia"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 31,
+            "end": 37,
+            "value": "london",
+            "entity": "city"
+          }
+        ],
+        "text": "do you have weather news about london"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 31,
+            "end": 40,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "do you have weather info about abu dhabi"
+      },
+      {
+        "intent": "get_weather",
+        "entities": [
+          {
+            "start": 29,
+            "end": 38,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the weather of today abu dhabi"
+      },
+      {
+        "intent": "get_weather",
+        "text": "what is the weather like today"
+      },
+      {
+        "intent": "get_weather",
+        "text": "current weather situation"
+      },
+      {
+        "intent": "get_weather",
+        "text": "weather outside"
+      },
+      {
+        "intent": "get_weather",
+        "text": "weather situation outside"
+      },
+      {
+        "intent": "get_weather",
+        "text": "what are weather updates"
+      },
+      {
+        "intent": "get_weather",
+        "text": "how is the weather"
+      },
+      {
+        "intent": "get_news",
+        "text": "news"
+      },
+      {
+        "intent": "get_news",
+        "text": "tell news"
+      },
+      {
+        "intent": "get_news",
+        "text": "tell me the latest news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is happening in the world"
+      },
+      {
+        "intent": "get_news",
+        "text": "todays news"
+      },
+      {
+        "intent": "get_news",
+        "text": "latest news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is today news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is news today"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is the news in"
+      },
+      {
+        "intent": "get_news",
+        "text": "tell me some latest news in"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is some latest news in"
+      },
+      {
+        "intent": "get_news",
+        "text": "give me some latest news"
+      },
+      {
+        "intent": "get_news",
+        "text": "give me some news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is the latest news"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "news update from abu dhabi"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "somalia",
+            "entity": "city"
+          }
+        ],
+        "text": "latest news from somalia"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 11,
+            "end": 14,
+            "value": "uae",
+            "entity": "city"
+          }
+        ],
+        "text": "news about uae"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 23,
+            "end": 30,
+            "value": "karachi",
+            "entity": "city"
+          }
+        ],
+        "text": "latest news updates of karachi"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "algeria",
+            "entity": "city"
+          }
+        ],
+        "text": "algeria news today"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "baku",
+            "entity": "city"
+          }
+        ],
+        "text": "current news from baku"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 30,
+            "end": 39,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "what are the latest news from abu dhabi"
+      },
+      {
+        "intent": "get_news",
+        "text": "news headlines"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is an update"
+      },
+      {
+        "intent": "get_news",
+        "text": "news"
+      },
+      {
+        "intent": "get_news",
+        "text": "tell news"
+      },
+      {
+        "intent": "get_news",
+        "text": "tell me the latest news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is happening in the world"
+      },
+      {
+        "intent": "get_news",
+        "text": "todays news"
+      },
+      {
+        "intent": "get_news",
+        "text": "latest news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is today news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is news today"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is the news in"
+      },
+      {
+        "intent": "get_news",
+        "text": "tell me some latest news in"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is some latest news in"
+      },
+      {
+        "intent": "get_news",
+        "text": "give me some latest news"
+      },
+      {
+        "intent": "get_news",
+        "text": "give me some news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is the latest news"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "news update from abu dhabi"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "somalia",
+            "entity": "city"
+          }
+        ],
+        "text": "latest news from somalia"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 11,
+            "end": 14,
+            "value": "uae",
+            "entity": "city"
+          }
+        ],
+        "text": "news about uae"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 23,
+            "end": 30,
+            "value": "karachi",
+            "entity": "city"
+          }
+        ],
+        "text": "latest news updates of karachi"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "algeria",
+            "entity": "city"
+          }
+        ],
+        "text": "algeria news today"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "baku",
+            "entity": "city"
+          }
+        ],
+        "text": "current news from baku"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 30,
+            "end": 39,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "what are the latest news from abu dhabi"
+      },
+      {
+        "intent": "get_news",
+        "text": "news headlines"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is an update"
+      },
+      {
+        "intent": "get_news",
+        "text": "news"
+      },
+      {
+        "intent": "get_news",
+        "text": "tell news"
+      },
+      {
+        "intent": "get_news",
+        "text": "tell me the latest news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is happening in the world"
+      },
+      {
+        "intent": "get_news",
+        "text": "todays news"
+      },
+      {
+        "intent": "get_news",
+        "text": "latest news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is today news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is news today"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is the news in"
+      },
+      {
+        "intent": "get_news",
+        "text": "tell me some latest news in"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is some latest news in"
+      },
+      {
+        "intent": "get_news",
+        "text": "give me some latest news"
+      },
+      {
+        "intent": "get_news",
+        "text": "give me some news"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is the latest news"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 17,
+            "end": 26,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "news update from abu dhabi"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "somalia",
+            "entity": "city"
+          }
+        ],
+        "text": "latest news from somalia"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 11,
+            "end": 14,
+            "value": "uae",
+            "entity": "city"
+          }
+        ],
+        "text": "news about uae"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 23,
+            "end": 30,
+            "value": "karachi",
+            "entity": "city"
+          }
+        ],
+        "text": "latest news updates of karachi"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "algeria",
+            "entity": "city"
+          }
+        ],
+        "text": "algeria news today"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 18,
+            "end": 22,
+            "value": "baku",
+            "entity": "city"
+          }
+        ],
+        "text": "current news from baku"
+      },
+      {
+        "intent": "get_news",
+        "entities": [
+          {
+            "start": 30,
+            "end": 39,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "what are the latest news from abu dhabi"
+      },
+      {
+        "intent": "get_news",
+        "text": "news headlines"
+      },
+      {
+        "intent": "get_news",
+        "text": "what is an update"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "tell some thing about my horoscope"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what my horoscope says"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "tell me my horoscope"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "can you tell me what my horoscope says"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what my zodiac sign says"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what my horoscope tells"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what my zodiac sign says"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "how will be my day today"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what is my horoscope"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "whats my horoscope"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "my horoscope"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what is my star"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "my star"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "tell me about my star"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what my star says"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what is horoscope of mine"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "tell some thing about my horoscope"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what my horoscope says"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "tell me my horoscope"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "can you tell me what my horoscope says"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what my zodiac sign says"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what my horoscope tells"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what my zodiac sign says"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "how will be my day today"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what is my horoscope"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "whats my horoscope"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "my horoscope"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what is my star"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "my star"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "tell me about my star"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what my star says"
+      },
+      {
+        "intent": "user_horoscope",
+        "text": "what is horoscope of mine"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 28,
+            "end": 37,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the current time in abu dhabi"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "lahore",
+            "entity": "city"
+          }
+        ],
+        "text": "what time is it in lahore"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 18,
+            "end": 25,
+            "value": "toronto",
+            "entity": "city"
+          }
+        ],
+        "text": "whats the time in toronto"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "new dehli",
+            "entity": "city"
+          }
+        ],
+        "text": "new dehli time please"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 20,
+            "end": 28,
+            "value": "new york",
+            "entity": "city"
+          }
+        ],
+        "text": "tell me the time in new york"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "karachi",
+            "entity": "city"
+          }
+        ],
+        "text": "time in karachi"
+      },
+      {
+        "intent": "get_time",
+        "text": "what is the current time"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 29,
+            "end": 41,
+            "value": "philadelphia",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the standard time in philadelphia"
+      },
+      {
+        "intent": "get_time",
+        "text": "current time"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 16,
+            "end": 23,
+            "value": "zagazig",
+            "entity": "city"
+          }
+        ],
+        "text": "current time of zagazig"
+      },
+      {
+        "intent": "get_time",
+        "text": "what time is it"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "cairo",
+            "entity": "city"
+          }
+        ],
+        "text": "what time is it in cairo"
+      },
+      {
+        "intent": "get_time",
+        "text": "what is the time"
+      },
+      {
+        "intent": "get_time",
+        "text": "what is the time"
+      },
+      {
+        "intent": "get_time",
+        "text": "what the time"
+      },
+      {
+        "intent": "get_time",
+        "text": "what date is today"
+      },
+      {
+        "intent": "get_time",
+        "text": "what day is it today"
+      },
+      {
+        "intent": "get_time",
+        "text": "what is the day today"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 28,
+            "end": 37,
+            "value": "abu dhabi",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the current time in abu dhabi"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 19,
+            "end": 25,
+            "value": "lahore",
+            "entity": "city"
+          }
+        ],
+        "text": "what time is it in lahore"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 18,
+            "end": 25,
+            "value": "toronto",
+            "entity": "city"
+          }
+        ],
+        "text": "whats the time in toronto"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "new dehli",
+            "entity": "city"
+          }
+        ],
+        "text": "new dehli time please"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 20,
+            "end": 28,
+            "value": "new york",
+            "entity": "city"
+          }
+        ],
+        "text": "tell me the time in new york"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 8,
+            "end": 15,
+            "value": "karachi",
+            "entity": "city"
+          }
+        ],
+        "text": "time in karachi"
+      },
+      {
+        "intent": "get_time",
+        "text": "what is the current time"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 29,
+            "end": 41,
+            "value": "philadelphia",
+            "entity": "city"
+          }
+        ],
+        "text": "what is the standard time in philadelphia"
+      },
+      {
+        "intent": "get_time",
+        "text": "current time"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 16,
+            "end": 23,
+            "value": "zagazig",
+            "entity": "city"
+          }
+        ],
+        "text": "current time of zagazig"
+      },
+      {
+        "intent": "get_time",
+        "text": "what time is it"
+      },
+      {
+        "intent": "get_time",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "cairo",
+            "entity": "city"
+          }
+        ],
+        "text": "what time is it in cairo"
+      },
+      {
+        "intent": "get_time",
+        "text": "what is the time"
+      },
+      {
+        "intent": "get_time",
+        "text": "what is the time"
+      },
+      {
+        "intent": "get_time",
+        "text": "what the time"
+      },
+      {
+        "intent": "get_time",
+        "text": "what date is today"
+      },
+      {
+        "intent": "get_time",
+        "text": "what day is it today"
+      },
+      {
+        "intent": "get_time",
+        "text": "what is the day today"
+      },
+      {
+        "intent": "get_placeinfo",
+        "text": "based on where I am right now please share what would be important for me to know"
+      },
+      {
+        "intent": "get_placeinfo",
+        "text": "based on my location please share what would be important for me to know"
+      },
+      {
+        "intent": "get_placeinfo",
+        "text": "tell me something important for my location"
+      },
+      {
+        "intent": "get_placeinfo",
+        "text": "tell me something important"
+      },
+      {
+        "intent": "get_placeinfo",
+        "text": "what would be important for me to know"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "bye"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "bye"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "bye bot"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "bye bye"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "bye bye bot"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "bye for now"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "bye was nice talking to you"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "catch you later"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "farewell"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "good bye"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "good night"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "goodnight"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "gotta go"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "ok bye"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "ok bye"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "see u later"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "see ya"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "see you"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "see you bye"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "take care"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "then bye"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "tlak to you later"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "exit"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "byr"
+      },
+      {
+        "intent": "cronus_bye",
+        "text": "tata"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [
+      {
+        "name": "zodiac_sign",
+        "elements": [
+          "aquarius",
+          "pisces",
+          "aries",
+          "taurus",
+          "gemini",
+          "cancer",
+          "leo",
+          "virgo",
+          "libra",
+          "scorpio",
+          "sagittarius",
+          "capricorn"
+        ]
+      },
+      {
+        "name": "languages",
+        "elements": [
+          "english",
+          "chinese",
+          "hindi",
+          "spanish",
+          "french",
+          "arabic",
+          "bengali",
+          "russian",
+          "portuguese",
+          "indonesian",
+          "urdu",
+          "turkish",
+          "italian",
+          "norwegian",
+          "dutch",
+          "polish",
+          "danish",
+          "swedish",
+          "finnish"
+        ]
+      },
+      {
+        "name": "city",
+        "elements": "/home/world_cities_new.txt"
+      }
+    ],
+    "entity_synonyms": []
+  }
+}

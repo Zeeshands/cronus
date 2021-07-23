@@ -1,0 +1,1410 @@
+[
+    {
+        "text": "your dob",
+        "intent": "cronus_gender",
+        "intent_prediction": {
+            "name": "cronus_dob",
+            "confidence": 0.9668552051388494
+        }
+    },
+    {
+        "text": "your date of birth",
+        "intent": "cronus_gender",
+        "intent_prediction": {
+            "name": "cronus_dob",
+            "confidence": 0.9086197630740425
+        }
+    },
+    {
+        "text": "whats your birthday",
+        "intent": "cronus_gender",
+        "intent_prediction": {
+            "name": "cronus_dob",
+            "confidence": 0.5083180027457088
+        }
+    },
+    {
+        "text": "when is your birthday",
+        "intent": "cronus_gender",
+        "intent_prediction": {
+            "name": "cronus_dob",
+            "confidence": 0.5856355313838314
+        }
+    },
+    {
+        "text": "when is your birthdate",
+        "intent": "cronus_gender",
+        "intent_prediction": {
+            "name": "cronus_dob",
+            "confidence": 0.8320786109389839
+        }
+    },
+    {
+        "text": "what is your gender",
+        "intent": "cronus_dob",
+        "intent_prediction": {
+            "name": "cronus_gender",
+            "confidence": 0.5065575770293511
+        }
+    },
+    {
+        "text": "are you male or female",
+        "intent": "cronus_dob",
+        "intent_prediction": {
+            "name": "cronus_gender",
+            "confidence": 0.650243864753486
+        }
+    },
+    {
+        "text": "what is your sex",
+        "intent": "cronus_dob",
+        "intent_prediction": {
+            "name": "cronus_gender",
+            "confidence": 0.4182052540177879
+        }
+    },
+    {
+        "text": "are you male",
+        "intent": "cronus_dob",
+        "intent_prediction": {
+            "name": "cronus_gender",
+            "confidence": 0.5100647124358476
+        }
+    },
+    {
+        "text": "are you female",
+        "intent": "cronus_dob",
+        "intent_prediction": {
+            "name": "cronus_gender",
+            "confidence": 0.46570428863407864
+        }
+    },
+    {
+        "text": "your name",
+        "intent": "cronus_age",
+        "intent_prediction": {
+            "name": "cronus_name",
+            "confidence": 0.8200633707012297
+        }
+    },
+    {
+        "text": "what is your name",
+        "intent": "cronus_age",
+        "intent_prediction": {
+            "name": "cronus_name",
+            "confidence": 0.6642655587380973
+        }
+    },
+    {
+        "text": "tell me your name",
+        "intent": "cronus_age",
+        "intent_prediction": {
+            "name": "cronus_name",
+            "confidence": 0.7458637048410415
+        }
+    },
+    {
+        "text": "may i ask you what your name is",
+        "intent": "cronus_age",
+        "intent_prediction": {
+            "name": "cronus_name",
+            "confidence": 0.7044288221449754
+        }
+    },
+    {
+        "text": "what is your age",
+        "intent": "cronus_name",
+        "intent_prediction": {
+            "name": "cronus_age",
+            "confidence": 0.6524726327680382
+        }
+    },
+    {
+        "text": "your age",
+        "intent": "cronus_name",
+        "intent_prediction": {
+            "name": "cronus_age",
+            "confidence": 0.8990328251134639
+        }
+    },
+    {
+        "text": "how old did you get",
+        "intent": "cronus_name",
+        "intent_prediction": {
+            "name": "cronus_age",
+            "confidence": 0.42188061843388286
+        }
+    },
+    {
+        "text": "how old are you",
+        "intent": "cronus_name",
+        "intent_prediction": {
+            "name": "cronus_age",
+            "confidence": 0.6048886396904902
+        }
+    },
+    {
+        "text": "which languages can you speak",
+        "intent": "cronus_city",
+        "intent_prediction": {
+            "name": "cronus_languages",
+            "confidence": 0.6182234022687889
+        }
+    },
+    {
+        "text": "what languages can you speak",
+        "intent": "cronus_city",
+        "intent_prediction": {
+            "name": "cronus_languages",
+            "confidence": 0.6703450079031495
+        }
+    },
+    {
+        "text": "which languages do you speak",
+        "intent": "cronus_city",
+        "intent_prediction": {
+            "name": "cronus_languages",
+            "confidence": 0.7203481850904481
+        }
+    },
+    {
+        "text": "your city",
+        "intent": "cronus_languages",
+        "intent_prediction": {
+            "name": "cronus_city",
+            "confidence": 0.8213193678838361
+        }
+    },
+    {
+        "text": "where are you from",
+        "intent": "cronus_languages",
+        "intent_prediction": {
+            "name": "cronus_city",
+            "confidence": 0.7183241015116044
+        }
+    },
+    {
+        "text": "what is your city",
+        "intent": "cronus_languages",
+        "intent_prediction": {
+            "name": "cronus_city",
+            "confidence": 0.4347588435175086
+        }
+    },
+    {
+        "text": "could you tell me where you are from",
+        "intent": "cronus_languages",
+        "intent_prediction": {
+            "name": "cronus_city",
+            "confidence": 0.3996528857120532
+        }
+    },
+    {
+        "text": "how much study you have done",
+        "intent": "cronus_job",
+        "intent_prediction": {
+            "name": "cronus_education",
+            "confidence": 0.49825663711276
+        }
+    },
+    {
+        "text": "what is your educational background",
+        "intent": "cronus_job",
+        "intent_prediction": {
+            "name": "cronus_education",
+            "confidence": 0.5168079265498134
+        }
+    },
+    {
+        "text": "tell me about your educational qualifications",
+        "intent": "cronus_job",
+        "intent_prediction": {
+            "name": "cronus_education",
+            "confidence": 0.6581314445858448
+        }
+    },
+    {
+        "text": "what are your qualifications",
+        "intent": "cronus_job",
+        "intent_prediction": {
+            "name": "cronus_education",
+            "confidence": 0.5897467468954664
+        }
+    },
+    {
+        "text": "your job",
+        "intent": "cronus_education",
+        "intent_prediction": {
+            "name": "cronus_job",
+            "confidence": 0.7608495912512375
+        }
+    },
+    {
+        "text": "your profession",
+        "intent": "cronus_education",
+        "intent_prediction": {
+            "name": "cronus_job",
+            "confidence": 0.6206676175800246
+        }
+    },
+    {
+        "text": "what is your work",
+        "intent": "cronus_education",
+        "intent_prediction": {
+            "name": "cronus_job",
+            "confidence": 0.5341088660377894
+        }
+    },
+    {
+        "text": "what do you do for a living",
+        "intent": "cronus_education",
+        "intent_prediction": {
+            "name": "cronus_job",
+            "confidence": 0.48086755358133265
+        }
+    },
+    {
+        "text": "what is your country",
+        "intent": "cronus_hobbies",
+        "intent_prediction": {
+            "name": "cronus_country",
+            "confidence": 0.4683776764496522
+        }
+    },
+    {
+        "text": "your country",
+        "intent": "cronus_hobbies",
+        "intent_prediction": {
+            "name": "cronus_country",
+            "confidence": 0.7651367425874341
+        }
+    },
+    {
+        "text": "which country do you belong to",
+        "intent": "cronus_hobbies",
+        "intent_prediction": {
+            "name": "cronus_country",
+            "confidence": 0.5816605649081247
+        }
+    },
+    {
+        "text": "in which country do you live",
+        "intent": "cronus_hobbies",
+        "intent_prediction": {
+            "name": "cronus_country",
+            "confidence": 0.51409904395648
+        }
+    },
+    {
+        "text": "in what part of the world you reside",
+        "intent": "cronus_hobbies",
+        "intent_prediction": {
+            "name": "cronus_country",
+            "confidence": 0.4790690093912872
+        }
+    },
+    {
+        "text": "what nationality do you hold",
+        "intent": "cronus_hobbies",
+        "intent_prediction": {
+            "name": "cronus_country",
+            "confidence": 0.5702570159818668
+        }
+    },
+    {
+        "text": "what is your nationality",
+        "intent": "cronus_hobbies",
+        "intent_prediction": {
+            "name": "cronus_country",
+            "confidence": 0.7491717481942115
+        }
+    },
+    {
+        "text": "i am very curious about your nationality",
+        "intent": "cronus_hobbies",
+        "intent_prediction": {
+            "name": "cronus_country",
+            "confidence": 0.46346130244465816
+        }
+    },
+    {
+        "text": "do you have a hobby",
+        "intent": "cronus_country",
+        "intent_prediction": {
+            "name": "cronus_hobbies",
+            "confidence": 0.5624373948993263
+        }
+    },
+    {
+        "text": "what are your hobbies",
+        "intent": "cronus_country",
+        "intent_prediction": {
+            "name": "cronus_hobbies",
+            "confidence": 0.8407914745529453
+        }
+    },
+    {
+        "text": "your hobbies",
+        "intent": "cronus_country",
+        "intent_prediction": {
+            "name": "cronus_hobbies",
+            "confidence": 0.9777838293501071
+        }
+    },
+    {
+        "text": "tell about your hobbies",
+        "intent": "cronus_country",
+        "intent_prediction": {
+            "name": "cronus_hobbies",
+            "confidence": 0.709527529143363
+        }
+    },
+    {
+        "text": "what do you do in your spare time",
+        "intent": "cronus_country",
+        "intent_prediction": {
+            "name": "cronus_hobbies",
+            "confidence": 0.4804728812039564
+        }
+    },
+    {
+        "text": "what do you do in your leisure time",
+        "intent": "cronus_country",
+        "intent_prediction": {
+            "name": "cronus_hobbies",
+            "confidence": 0.5287254875634083
+        }
+    },
+    {
+        "text": "what things do you find most interesting",
+        "intent": "cronus_country",
+        "intent_prediction": {
+            "name": "cronus_hobbies",
+            "confidence": 0.6375291738850642
+        }
+    },
+    {
+        "text": "what are your interests",
+        "intent": "cronus_country",
+        "intent_prediction": {
+            "name": "cronus_hobbies",
+            "confidence": 0.6001367994147528
+        }
+    },
+    {
+        "text": "your interests",
+        "intent": "cronus_country",
+        "intent_prediction": {
+            "name": "cronus_hobbies",
+            "confidence": 0.8683916411755499
+        }
+    },
+    {
+        "text": "what is your favourite color",
+        "intent": "cronus_music",
+        "intent_prediction": {
+            "name": "cronus_color",
+            "confidence": 0.39415147420167196
+        }
+    },
+    {
+        "text": "your favourite color",
+        "intent": "cronus_music",
+        "intent_prediction": {
+            "name": "cronus_color",
+            "confidence": 0.9191791932547143
+        }
+    },
+    {
+        "text": "which color do you like",
+        "intent": "cronus_music",
+        "intent_prediction": {
+            "name": "cronus_color",
+            "confidence": 0.460685986032451
+        }
+    },
+    {
+        "text": "what shades in clothing you like to wear most often",
+        "intent": "cronus_music",
+        "intent_prediction": {
+            "name": "cronus_color",
+            "confidence": 0.3682128439646886
+        }
+    },
+    {
+        "text": "what kind of hues you prefer to wear",
+        "intent": "cronus_music",
+        "intent_prediction": {
+            "name": "cronus_color",
+            "confidence": 0.36516162955625187
+        }
+    },
+    {
+        "text": "whose music you like the most",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.7133069735834588
+        }
+    },
+    {
+        "text": "what is your favourite song",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.5553576902796907
+        }
+    },
+    {
+        "text": "who is your favourite musician",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.6187252770337213
+        }
+    },
+    {
+        "text": "tell me about your kind of music and who do you like to listen most",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.40806321840169024
+        }
+    },
+    {
+        "text": "tell me about your favourite music makers",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.578694150520811
+        }
+    },
+    {
+        "text": "who is the best among all the music producers in the world",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.4858178355234511
+        }
+    },
+    {
+        "text": "what is your favourite song",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.5553576902796907
+        }
+    },
+    {
+        "text": "which is your favourite song",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.6436960938857854
+        }
+    },
+    {
+        "text": "your favourite music",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.9837303809872323
+        }
+    },
+    {
+        "text": "your favourite musician",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.8976303856728661
+        }
+    },
+    {
+        "text": "do you like music",
+        "intent": "cronus_color",
+        "intent_prediction": {
+            "name": "cronus_music",
+            "confidence": 0.6758995403330449
+        }
+    },
+    {
+        "text": "who made you",
+        "intent": "cronus_sibling",
+        "intent_prediction": {
+            "name": "cronus_owner_developer",
+            "confidence": 0.560434690141559
+        }
+    },
+    {
+        "text": "who is your developer",
+        "intent": "cronus_sibling",
+        "intent_prediction": {
+            "name": "cronus_owner_developer",
+            "confidence": 0.8842298836116422
+        }
+    },
+    {
+        "text": "who are your developers",
+        "intent": "cronus_sibling",
+        "intent_prediction": {
+            "name": "cronus_owner_developer",
+            "confidence": 0.6404474240781538
+        }
+    },
+    {
+        "text": "who developed you",
+        "intent": "cronus_sibling",
+        "intent_prediction": {
+            "name": "cronus_owner_developer",
+            "confidence": 0.5937727262863607
+        }
+    },
+    {
+        "text": "who is your owner",
+        "intent": "cronus_sibling",
+        "intent_prediction": {
+            "name": "cronus_owner_developer",
+            "confidence": 0.8912702982968826
+        }
+    },
+    {
+        "text": "who owns you",
+        "intent": "cronus_sibling",
+        "intent_prediction": {
+            "name": "cronus_owner_developer",
+            "confidence": 0.8234392410065238
+        }
+    },
+    {
+        "text": "do you have any brother",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.5583572983154387
+        }
+    },
+    {
+        "text": "how many brothers do you have",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.6332525374391301
+        }
+    },
+    {
+        "text": "do you have any sister",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.5294618418831494
+        }
+    },
+    {
+        "text": "how many sister do you have",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.5579225126052997
+        }
+    },
+    {
+        "text": "how many siblings do you have",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.6743353454891773
+        }
+    },
+    {
+        "text": "do you have any siblings",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.6862102689005989
+        }
+    },
+    {
+        "text": "any brothers or sisters",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.8525267469369547
+        }
+    },
+    {
+        "text": "how many brothers and sisters do you have",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.7369883345262358
+        }
+    },
+    {
+        "text": "how many kinsmen do you have and what do you call them",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.5476182509027316
+        }
+    },
+    {
+        "text": "what do you call your kinsman",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.5552217311954478
+        }
+    },
+    {
+        "text": "how do you call out your kinsman",
+        "intent": "cronus_owner_developer",
+        "intent_prediction": {
+            "name": "cronus_sibling",
+            "confidence": 0.5363495203380296
+        }
+    },
+    {
+        "text": "are you married",
+        "intent": "cronus_organization",
+        "intent_prediction": {
+            "name": "cronus_marriage",
+            "confidence": 0.6088873872270686
+        }
+    },
+    {
+        "text": "are you single",
+        "intent": "cronus_organization",
+        "intent_prediction": {
+            "name": "cronus_marriage",
+            "confidence": 0.41383238306343006
+        }
+    },
+    {
+        "text": "do you have a husband",
+        "intent": "cronus_organization",
+        "intent_prediction": {
+            "name": "cronus_marriage",
+            "confidence": 0.47270804778352754
+        }
+    },
+    {
+        "text": "do you hava a wife",
+        "intent": "cronus_organization",
+        "intent_prediction": {
+            "name": "cronus_marriage",
+            "confidence": 0.42938468770794147
+        }
+    },
+    {
+        "text": "do you have a spouse",
+        "intent": "cronus_organization",
+        "intent_prediction": {
+            "name": "cronus_marriage",
+            "confidence": 0.6914445243048088
+        }
+    },
+    {
+        "text": "where are you working",
+        "intent": "cronus_organization",
+        "intent_prediction": {
+            "name": "cronus_job",
+            "confidence": 0.48837234297884463
+        }
+    },
+    {
+        "text": "name of your organization",
+        "intent": "cronus_marriage",
+        "intent_prediction": {
+            "name": "cronus_organization",
+            "confidence": 0.5635440286650777
+        }
+    },
+    {
+        "text": "name of your company",
+        "intent": "cronus_marriage",
+        "intent_prediction": {
+            "name": "cronus_organization",
+            "confidence": 0.577240697603675
+        }
+    },
+    {
+        "text": "name of your firm",
+        "intent": "cronus_marriage",
+        "intent_prediction": {
+            "name": "cronus_organization",
+            "confidence": 0.5580113272950069
+        }
+    },
+    {
+        "text": "your organization",
+        "intent": "cronus_marriage",
+        "intent_prediction": {
+            "name": "cronus_organization",
+            "confidence": 0.9659537965943106
+        }
+    },
+    {
+        "text": "your company",
+        "intent": "cronus_marriage",
+        "intent_prediction": {
+            "name": "cronus_organization",
+            "confidence": 0.9714177184046042
+        }
+    },
+    {
+        "text": "your firm",
+        "intent": "cronus_marriage",
+        "intent_prediction": {
+            "name": "cronus_organization",
+            "confidence": 0.9701369617372454
+        }
+    },
+    {
+        "text": "tell me about your organization",
+        "intent": "cronus_marriage",
+        "intent_prediction": {
+            "name": "cronus_organization",
+            "confidence": 0.44790963778689236
+        }
+    },
+    {
+        "text": "what is your favourite sportsman",
+        "intent": "cronus_poet",
+        "intent_prediction": {
+            "name": "cronus_sportsman",
+            "confidence": 0.5132109996526831
+        }
+    },
+    {
+        "text": "who is your favourite sportsman",
+        "intent": "cronus_poet",
+        "intent_prediction": {
+            "name": "cronus_sportsman",
+            "confidence": 0.773247451667254
+        }
+    },
+    {
+        "text": "what sports person is your favourite",
+        "intent": "cronus_poet",
+        "intent_prediction": {
+            "name": "cronus_sportsman",
+            "confidence": 0.47228753876923113
+        }
+    },
+    {
+        "text": "who inspires you the most in sports",
+        "intent": "cronus_poet",
+        "intent_prediction": {
+            "name": "cronus_sportsman",
+            "confidence": 0.4847617740352694
+        }
+    },
+    {
+        "text": "because of whom do you like a sport",
+        "intent": "cronus_poet",
+        "intent_prediction": {
+            "name": "cronus_sportsman",
+            "confidence": 0.41780152803058745
+        }
+    },
+    {
+        "text": "which sports personality do you like",
+        "intent": "cronus_poet",
+        "intent_prediction": {
+            "name": "cronus_sportsman",
+            "confidence": 0.4997999656099532
+        }
+    },
+    {
+        "text": "which sports personality do you like most",
+        "intent": "cronus_poet",
+        "intent_prediction": {
+            "name": "cronus_sportsman",
+            "confidence": 0.49989647784188673
+        }
+    },
+    {
+        "text": "who is your favourite poet",
+        "intent": "cronus_sportsman",
+        "intent_prediction": {
+            "name": "cronus_poet",
+            "confidence": 0.4167921837441544
+        }
+    },
+    {
+        "text": "your favourite poet",
+        "intent": "cronus_sportsman",
+        "intent_prediction": {
+            "name": "cronus_poet",
+            "confidence": 0.773869137505956
+        }
+    },
+    {
+        "text": "your most liked poet",
+        "intent": "cronus_sportsman",
+        "intent_prediction": {
+            "name": "cronus_poet",
+            "confidence": 0.66035517240912
+        }
+    },
+    {
+        "text": "whose poetry you like the most",
+        "intent": "cronus_sportsman",
+        "intent_prediction": {
+            "name": "cronus_poet",
+            "confidence": 0.4376222699707721
+        }
+    },
+    {
+        "text": "whose poetry you like",
+        "intent": "cronus_sportsman",
+        "intent_prediction": {
+            "name": "cronus_poet",
+            "confidence": 0.8523261290864694
+        }
+    },
+    {
+        "text": "whose poems are your favourite",
+        "intent": "cronus_sportsman",
+        "intent_prediction": {
+            "name": "cronus_poet",
+            "confidence": 0.5423731155240736
+        }
+    },
+    {
+        "text": "your favourite actor actress",
+        "intent": "cronus_parent",
+        "intent_prediction": {
+            "name": "cronus_actor",
+            "confidence": 0.9734148899048908
+        }
+    },
+    {
+        "text": "your favorite celebrity",
+        "intent": "cronus_parent",
+        "intent_prediction": {
+            "name": "cronus_actor",
+            "confidence": 0.9589425462352852
+        }
+    },
+    {
+        "text": "who is your favourite actor",
+        "intent": "cronus_parent",
+        "intent_prediction": {
+            "name": "cronus_actor",
+            "confidence": 0.6693782884365874
+        }
+    },
+    {
+        "text": "who is your favourite actress",
+        "intent": "cronus_parent",
+        "intent_prediction": {
+            "name": "cronus_actor",
+            "confidence": 0.6811360183528637
+        }
+    },
+    {
+        "text": "who is your favourite male celebrity",
+        "intent": "cronus_parent",
+        "intent_prediction": {
+            "name": "cronus_actor",
+            "confidence": 0.6210544208039612
+        }
+    },
+    {
+        "text": "who is your favourite female celebrity",
+        "intent": "cronus_parent",
+        "intent_prediction": {
+            "name": "cronus_actor",
+            "confidence": 0.6819752333018058
+        }
+    },
+    {
+        "text": "i want to know about your favourite celebbrity",
+        "intent": "cronus_parent",
+        "intent_prediction": {
+            "name": "cronus_actor",
+            "confidence": 0.3093240127656769
+        }
+    },
+    {
+        "text": "do you have any parents",
+        "intent": "cronus_actor",
+        "intent_prediction": {
+            "name": "cronus_parent",
+            "confidence": 0.5505828381591857
+        }
+    },
+    {
+        "text": "do you have a mother",
+        "intent": "cronus_actor",
+        "intent_prediction": {
+            "name": "cronus_parent",
+            "confidence": 0.6531879832429525
+        }
+    },
+    {
+        "text": "do you have a father",
+        "intent": "cronus_actor",
+        "intent_prediction": {
+            "name": "cronus_parent",
+            "confidence": 0.577166652078468
+        }
+    },
+    {
+        "text": "do you have a father or mother",
+        "intent": "cronus_actor",
+        "intent_prediction": {
+            "name": "cronus_parent",
+            "confidence": 0.8229646700479092
+        }
+    },
+    {
+        "text": "what do you call your matriarch",
+        "intent": "cronus_actor",
+        "intent_prediction": {
+            "name": "cronus_parent",
+            "confidence": 0.5463273086118998
+        }
+    },
+    {
+        "text": "can i know the name of the woman who gave birth to you",
+        "intent": "cronus_actor",
+        "intent_prediction": {
+            "name": "cronus_parent",
+            "confidence": 0.47266687347988967
+        }
+    },
+    {
+        "text": "who is the woman birthed you",
+        "intent": "cronus_actor",
+        "intent_prediction": {
+            "name": "cronus_parent",
+            "confidence": 0.5825466271081108
+        }
+    },
+    {
+        "text": "i am interested in knowing your mom official title",
+        "intent": "cronus_actor",
+        "intent_prediction": {
+            "name": "cronus_parent",
+            "confidence": 0.4623854673460611
+        }
+    },
+    {
+        "text": "are your parents alive",
+        "intent": "cronus_actor",
+        "intent_prediction": {
+            "name": "cronus_parent",
+            "confidence": 0.801687771581236
+        }
+    },
+    {
+        "text": "what is my name",
+        "intent": "cronus_book",
+        "intent_prediction": {
+            "name": "user_name",
+            "confidence": 0.5469405497391601
+        }
+    },
+    {
+        "text": "tell me my name",
+        "intent": "cronus_book",
+        "intent_prediction": {
+            "name": "user_name",
+            "confidence": 0.7604488135516505
+        }
+    },
+    {
+        "text": "tell me my name",
+        "intent": "cronus_book",
+        "intent_prediction": {
+            "name": "user_name",
+            "confidence": 0.7604488135516505
+        }
+    },
+    {
+        "text": "what am I called",
+        "intent": "cronus_book",
+        "intent_prediction": {
+            "name": "user_name",
+            "confidence": 0.5393575918353968
+        }
+    },
+    {
+        "text": "my name",
+        "intent": "cronus_book",
+        "intent_prediction": {
+            "name": "user_name",
+            "confidence": 0.8154859648801743
+        }
+    },
+    {
+        "text": "what my name",
+        "intent": "cronus_book",
+        "intent_prediction": {
+            "name": "user_name",
+            "confidence": 0.7916702143939348
+        }
+    },
+    {
+        "text": "what do they call me",
+        "intent": "cronus_book",
+        "intent_prediction": {
+            "name": "user_name",
+            "confidence": 0.4785097830572827
+        }
+    },
+    {
+        "text": "do you remember me",
+        "intent": "cronus_book",
+        "intent_prediction": {
+            "name": "user_name",
+            "confidence": 0.43852935503187734
+        }
+    },
+    {
+        "text": "who am i",
+        "intent": "cronus_book",
+        "intent_prediction": {
+            "name": "user_name",
+            "confidence": 0.5244203014135711
+        }
+    },
+    {
+        "text": "your favourite book",
+        "intent": "user_name",
+        "intent_prediction": {
+            "name": "cronus_book",
+            "confidence": 0.9730955335510184
+        }
+    },
+    {
+        "text": "your most favourite book",
+        "intent": "user_name",
+        "intent_prediction": {
+            "name": "cronus_book",
+            "confidence": 0.9262096422630801
+        }
+    },
+    {
+        "text": "which is your most favourite book",
+        "intent": "user_name",
+        "intent_prediction": {
+            "name": "cronus_book",
+            "confidence": 0.6450388031730598
+        }
+    },
+    {
+        "text": "what is your most favourite book",
+        "intent": "user_name",
+        "intent_prediction": {
+            "name": "cronus_book",
+            "confidence": 0.6212748546286007
+        }
+    },
+    {
+        "text": "which type of books do you love to read",
+        "intent": "user_name",
+        "intent_prediction": {
+            "name": "cronus_book",
+            "confidence": 0.5064575372406659
+        }
+    },
+    {
+        "text": "what book you would like to read the most",
+        "intent": "user_name",
+        "intent_prediction": {
+            "name": "cronus_book",
+            "confidence": 0.48504164551929657
+        }
+    },
+    {
+        "text": "name one good book read of yours",
+        "intent": "user_name",
+        "intent_prediction": {
+            "name": "cronus_book",
+            "confidence": 0.5907627534819165
+        }
+    },
+    {
+        "text": "what book keeps you captivated",
+        "intent": "user_name",
+        "intent_prediction": {
+            "name": "cronus_book",
+            "confidence": 0.5562114473083402
+        }
+    },
+    {
+        "text": "what is my location",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.7253663794690574
+        }
+    },
+    {
+        "text": "tell me my location",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.7864525613933258
+        }
+    },
+    {
+        "text": "tell me my location",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.7864525613933258
+        }
+    },
+    {
+        "text": "my location",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.9875623597898234
+        }
+    },
+    {
+        "text": "whats my location",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.7347785133263383
+        }
+    },
+    {
+        "text": "where am i located",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.9475126142229952
+        }
+    },
+    {
+        "text": "where do i live",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.7907954888726536
+        }
+    },
+    {
+        "text": "where i live",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.9144529919652339
+        }
+    },
+    {
+        "text": "what is my city",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.70229835447849
+        }
+    },
+    {
+        "text": "tell me my location",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.7864525613933258
+        }
+    },
+    {
+        "text": "tell me my city",
+        "intent": "user_age",
+        "intent_prediction": {
+            "name": "get_location",
+            "confidence": 0.8040759057823628
+        }
+    },
+    {
+        "text": "my age",
+        "intent": "get_location",
+        "intent_prediction": {
+            "name": "user_age",
+            "confidence": 0.9762824455504542
+        }
+    },
+    {
+        "text": "what is my age",
+        "intent": "get_location",
+        "intent_prediction": {
+            "name": "user_age",
+            "confidence": 0.40128722619351753
+        }
+    },
+    {
+        "text": "what is my age",
+        "intent": "get_location",
+        "intent_prediction": {
+            "name": "user_age",
+            "confidence": 0.40128722619351753
+        }
+    },
+    {
+        "text": "tell me my age",
+        "intent": "get_location",
+        "intent_prediction": {
+            "name": "user_age",
+            "confidence": 0.547734864088531
+        }
+    },
+    {
+        "text": "how old am i",
+        "intent": "get_location",
+        "intent_prediction": {
+            "name": "user_age",
+            "confidence": 0.8427302046751616
+        }
+    },
+    {
+        "text": "whats my age",
+        "intent": "get_location",
+        "intent_prediction": {
+            "name": "user_age",
+            "confidence": 0.4016988943503523
+        }
+    },
+    {
+        "text": "how old did i get",
+        "intent": "get_location",
+        "intent_prediction": {
+            "name": "user_age",
+            "confidence": 0.3980298629870311
+        }
+    },
+    {
+        "text": "tell some thing about my horoscope",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.3623671291098046
+        }
+    },
+    {
+        "text": "what my horoscope says",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.8382803886228695
+        }
+    },
+    {
+        "text": "tell me my horoscope",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.7507507970863357
+        }
+    },
+    {
+        "text": "can you tell me what my horoscope says",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.3622180586079996
+        }
+    },
+    {
+        "text": "what my zodiac sign says",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.5843520052016145
+        }
+    },
+    {
+        "text": "what my horoscope tells",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.7896914881508478
+        }
+    },
+    {
+        "text": "what my zodiac sign says",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.5843520052016145
+        }
+    },
+    {
+        "text": "how will be my day today",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.3559758764839262
+        }
+    },
+    {
+        "text": "what is my horoscope",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.6998288513335714
+        }
+    },
+    {
+        "text": "whats my horoscope",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.6371615548850235
+        }
+    },
+    {
+        "text": "my horoscope",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.9356811758048782
+        }
+    },
+    {
+        "text": "what is my star",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.38743864175281123
+        }
+    },
+    {
+        "text": "my star",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.7474671347352219
+        }
+    },
+    {
+        "text": "tell me about my star",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.3889963729985386
+        }
+    },
+    {
+        "text": "what my star says",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.6311879477294187
+        }
+    },
+    {
+        "text": "what is horoscope of mine",
+        "intent": "get_horoscope",
+        "intent_prediction": {
+            "name": "user_horoscope",
+            "confidence": 0.38309643186745884
+        }
+    }
+]
