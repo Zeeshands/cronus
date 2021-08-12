@@ -2,6 +2,12 @@ import re,string,nltk,requests,datetime,dateparser,wikipedia
 from flask import request
 from unidecode import unidecode
 
+import spacy
+nlp = spacy.load("en_core_web_lg")
+
+from QA_module.bert import QA
+model = QA('QA_module/model')
+
 def preprocess(data):
   data = remove_non_ascii_2(data)
   data = re.sub("['][s]", '', data) #remove apostrophy 's
@@ -12,9 +18,6 @@ def preprocess(data):
    data = data.replace('please','').replace('kindly','').replace('great','').replace('well','')
   data = re.sub('\s+',' ',data)
   return data
-
-import spacy
-nlp = spacy.load("en_core_web_lg")
 
 def remove_non_ascii(text):
     return unidecode(str(text, encoding = "utf-8"))
@@ -44,14 +47,18 @@ def extract_single(sentence,user_attribute):
 
     return ret_val
 
+
 def wiki(data):
+  original_text=data
   text_tokens=nltk.word_tokenize(data)
   tokens_without_sw=[word for word in text_tokens if not word in nlp.Defaults.stop_words]
   data=(' ').join(tokens_without_sw)
   try:
-    res = wikipedia.summary(data,sentences=3)
-    res = remove_non_ascii_2(res)
-    log('user query:'+data)
+    doc = wikipedia.summary(data)
+    doc = remove_non_ascii_2(doc)
+    answer = model.predict(doc,original_text)
+    res = answer['answer'].title()
+    log('user query:'+original_text)
     log('wiki answer:'+res)
   except Exception as e:
     log('Exception in wiki: '+repr(e))

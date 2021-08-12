@@ -117,18 +117,18 @@ def response(data,original_data):
      party = str(dict['intent']['name']).split('_')[0]
      if party=="user":
        res = user_personality(dict['intent']['name'])
-       #res = '[user personality] '+res
+       res = 'user_personality-'+res
      elif party=="cronus":
        #tup1 = cronus_personality[dict['intent']['name']]
        tup1 = get_cp(str(dict['intent']['name']).split('_')[1])  #to be load in memory once at startup
        res = tup1[random.randint(0,len(tup1)-1)]
-       #res = '[cronus personality] '+res
+       res = 'cronus_personality-'+res
      else:
        #pdb.set_trace()
        res = call_online_service(dict)
        #res = remove_non_ascii(res)
-       #res = '[online service] '+res
-     log_chat(data,res+'\n'+ str(dict['intent']))
+       res = 'online_service-'+res
+     #log_chat(data,res+'\n'+ str(dict['intent']))
      #log_chat(data,res)
     else:
          #pdb.set_trace()
@@ -146,19 +146,18 @@ def response(data,original_data):
          elapsed_time1 = time.time()-t1
          if java_res=="Unable to reply" or java_res=="M2" or java_res=="" or java_res is None:
            if checkforWiki(data,original_data):
-             res = wiki(data)
-             if res=='':
+             res = 'wiki-'+wiki(data)
+             if res=='wiki-':
                t2 = time.time()
                m2_res = M2(data)
                elapsed_time2 = time.time()-t2
-               res = m2_res #+' ('+str(round(elapsed_time2,1))+' sec)'
+               res = 'M2-'+m2_res #+' ('+str(round(elapsed_time2,1))+' sec)'
            else:
-             res=M2(data)
+             res='M2-'+M2(data)
          else:
-           res = java_res
+           res = 'java-'+java_res
            M2(data) #calling M2 so that it retains context of last response
            #res='[Java]->'+java_res+'<hr>'+'[M2]->'+m2_res+' ('+str(round(elapsed_time2,1))+' sec)'
-
 
          ''' 
          pdb.set_trace()
@@ -189,7 +188,7 @@ def response(data,original_data):
          # res = Y[1]
          #else:
          # res = Y[0]
-         
+
          log_chat(data,res)
 
  except Exception as e:
@@ -202,13 +201,16 @@ def response(data,original_data):
 
 def java_calling(data):
          url_java = "http://ai.cronusbot.com/cronus/webresources/aiquestion/query?question="+data.replace(' ','%20')
-         t = time.time()
+         t1 = time.time()
          response_java = urllib.request.urlopen(url_java)
          response_java = remove_non_ascii(response_java.read())
          json_java = json.loads(response_java)
-         res = json_java['comment'].strip()
-         elapsed_time = time.time()-t
-         #t=('Java',res,elapsed_time)
+         java_res = json_java['comment']
+         elapsed_time1 = time.time()-t1
+         if java_res=="Unable to reply" or java_res=="M2" or java_res=="" or java_res is None:
+           res=''
+         else:
+           res=java_res
          return res
 
 def m2_calling(data):
@@ -228,6 +230,31 @@ def M2(data):
      res = (res.lower().split('my name is')[0]).capitalize()+'my name is Cronus'
    res = res.split('.')[0]
    return res
+
+@app.route('/test_wiki', methods=['GET'])
+def test_wiki():
+  original_data = data = request.args.get('field',"inoo").strip()
+  data = preprocess(data)
+  if checkforWiki(data,original_data):
+    res = wiki(data)
+  else:
+    res=''
+  return res
+
+@app.route('/test_m2', methods=['GET'])
+def test_m2():
+  original_data = data = request.args.get('field',"inoo").strip()
+  data = preprocess(data)
+  res = M2(data)
+  return res
+
+@app.route('/test_java', methods=['GET'])
+def test_java():
+  original_data = data = request.args.get('field',"inoo").strip()
+  data = preprocess(data)
+  res = java_calling(data)
+  return res  
+
 
 lst=[]
 gpt3_last_responce=''
@@ -497,4 +524,4 @@ def setup_interactive(shared):
 
 if __name__ == '__main__':
     opt = setup_interactive(SHARED)
-    app.run(host='0.0.0.0',port=9000)
+    app.run(host='0.0.0.0',port=8000)
